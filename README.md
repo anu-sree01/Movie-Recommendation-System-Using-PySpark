@@ -19,7 +19,7 @@ The application provides an interactive Streamlit dashboard where users can regi
 **MovieLens 32M Dataset**
 
 The dataset contains movie ratings and movie information, which are used for data analysis and building the recommendation model.
-
+https://grouplens.org/datasets/movielens/32m/?utm_source=chatgpt.com
 ## Project Modules
 
 ### Module 1: Data Processing and Analysis
