@@ -19,17 +19,20 @@ The application provides an interactive Streamlit dashboard where users can regi
 **MovieLens 32M Dataset**
 
 The dataset contains movie ratings and movie information, which are used for data analysis and building the recommendation model.
-https://grouplens.org/datasets/movielens/32m/?utm_source=chatgpt.com
+
+Dataset: https://grouplens.org/datasets/movielens/32m/
+
 ## Project Modules
 
 ### Module 1: Data Processing and Analysis
-- Dataset loading using PySpark.
-- Data cleaning and preprocessing.
-- Handling missing values and duplicates.
-- Exploratory Data Analysis (EDA).
-- Movie rating and genre analysis.
-- Spark DataFrame operations and Spark SQL queries.
-- Data visualization and cleaned dataset export.
+- Load MovieLens 32M ratings and movies datasets using PySpark.
+- Check null values and duplicate records.
+- Clean and preprocess the data.
+- Perform exploratory data analysis.
+- Analyse ratings, genres, users and movie decades.
+- Execute Spark DataFrame operations and Spark SQL queries.
+- Generate 8 visualizations.
+- Export cleaned datasets.
 
 ### Module 2: Recommendation Engine
 - ALS collaborative filtering.
@@ -45,6 +48,13 @@ https://grouplens.org/datasets/movielens/32m/?utm_source=chatgpt.com
 - Watchlist management.
 - SQLite database integration.
 
+## Generated Outputs
+- ratings_clean.parquet (shared separately due to its size)
+- movies_clean.parquet
+- movies_clean.csv
+- genre_stats.csv
+- 8 EDA plots
+
 ## Team Contributions
 - **Anusree S:** Data processing, cleaning, exploratory data analysis, Spark DataFrame operations and Spark SQL.
 - **Keerthana V K:** ALS recommendation model, training, evaluation and personalized recommendations.
@@ -59,4 +69,4 @@ https://grouplens.org/datasets/movielens/32m/?utm_source=chatgpt.com
 6. Allow users to manage their movie preferences and watchlists.
 
 ## Project Status
-Currently under development.# Movie Recommendation System Using PySpark
+Currently under development.

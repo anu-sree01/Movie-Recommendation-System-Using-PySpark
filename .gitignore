@@ -1,0 +1,20 @@
+# Original MovieLens dataset
+dataset/
+dataset.zip
+
+# Large ratings output
+output/clean/ratings_clean.parquet/
+
+# Temporary Spark folders
+UsersanusrAppDataLocalTempspark_*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Hadoop checksum files
+*.crc
