@@ -1,24 +1,52 @@
 # Movie Recommendation System Using PySpark
 
 ## Project Overview
-A movie recommendation system built using PySpark and the MovieLens 32M dataset.
+This project develops a personalized movie recommendation system using the MovieLens 32M dataset. It uses Apache Spark for large-scale data processing and the ALS (Alternating Least Squares) collaborative filtering algorithm to generate personalized movie recommendations.
 
-## Technologies
+The application provides an interactive Streamlit dashboard where users can register, select their favourite genres, receive movie recommendations, and manage their watched movies and watchlist.
+
+## Technologies Used
 - Python
-- PySpark
+- Apache PySpark
 - Spark SQL
+- ALS Collaborative Filtering
+- Streamlit
+- SQLite
 - Pandas
 - Matplotlib
 
-## Module 1: Data Processing
-- Load MovieLens 32M ratings and movies datasets.
+## Dataset
+**MovieLens 32M Dataset**
+
+The dataset contains movie ratings and movie information, which are used for data analysis and building the recommendation model.
+
+Dataset: https://grouplens.org/datasets/movielens/32m/
+
+## Project Modules
+
+### Module 1: Data Processing and Analysis
+- Load MovieLens 32M ratings and movies datasets using PySpark.
 - Check null values and duplicate records.
 - Clean and preprocess the data.
 - Perform exploratory data analysis.
 - Analyse ratings, genres, users and movie decades.
-- Execute Spark SQL queries.
+- Execute Spark DataFrame operations and Spark SQL queries.
 - Generate 8 visualizations.
 - Export cleaned datasets.
+
+### Module 2: Recommendation Engine
+- ALS collaborative filtering.
+- Training and testing the recommendation model.
+- Model evaluation using RMSE.
+- Generating personalized Top-N movie recommendations.
+
+### Module 3: User Interface and Application
+- User registration and unique ID generation.
+- Favourite genre selection.
+- Personalized recommendation dashboard.
+- Watched movies management.
+- Watchlist management.
+- SQLite database integration.
 
 ## Generated Outputs
 - ratings_clean.parquet (shared separately due to its size)
@@ -27,7 +55,18 @@ A movie recommendation system built using PySpark and the MovieLens 32M dataset.
 - genre_stats.csv
 - 8 EDA plots
 
-## Team Modules
-- Member 1: Data preprocessing and EDA.
-- Member 2: ALS recommendation model.
-- Member 3: Streamlit application.
+## Team Contributions
+- **Anusree S:** Data processing, cleaning, exploratory data analysis, Spark DataFrame operations and Spark SQL.
+- **Keerthana V K:** ALS recommendation model, training, evaluation and personalized recommendations.
+- **Hari:** Streamlit application, user interface, user management and database integration.
+
+## Project Workflow
+1. Load and preprocess the MovieLens 32M dataset.
+2. Perform exploratory data analysis.
+3. Train the ALS recommendation model.
+4. Generate personalized movie recommendations.
+5. Integrate the recommendation engine with the Streamlit application.
+6. Allow users to manage their movie preferences and watchlists.
+
+## Project Status
+Currently under development.
