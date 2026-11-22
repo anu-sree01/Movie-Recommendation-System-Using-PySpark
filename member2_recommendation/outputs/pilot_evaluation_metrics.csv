@@ -1,0 +1,2 @@
+dataset,original_records,evaluated_predictions,dropped_cold_start_records,rmse,mae,training_time_seconds,hyperparameters,pilot_sample_fraction,pilot_total_records,train_records
+Validation Set (Pilot),15854,9879,5975,1.6722,1.3769,22.05,"{'rank': 10, 'regParam': 0.1, 'maxIter': 5, 'seed': 42, 'coldStartStrategy': 'drop', 'nonnegative': True, 'implicitPrefs': False}",0.005,160054,128351

@@ -1,0 +1,381 @@
+genre,rank,movieId,title,clean_title,year,genres,rating_count,avg_rating,weighted_rating
+Action,1,170705,Band of Brothers (2001),Band of Brothers,2001,Action|Drama|War,2811,4.427,4.367
+Action,2,2019,Seven Samurai (Shichinin no samurai) (1954),Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,16531,4.25,4.2413
+Action,3,2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,77332,4.229,4.2272
+Action,4,908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+Action,5,6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+Action,6,195159,Spider-Man: Into the Spider-Verse (2018),Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation|Sci-Fi,10434,4.185,4.1726
+Action,7,58559,"Dark Knight, The (2008)","Dark Knight, The",2008,Action|Crime|Drama|IMAX,59334,4.173,4.1708
+Action,8,3000,Princess Mononoke (Mononoke-hime) (1997),Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,17730,4.164,4.1569
+Action,9,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+Action,10,2571,"Matrix, The (1999)","Matrix, The",1999,Action|Sci-Fi|Thriller,93808,4.156,4.1547
+Action,11,3030,Yojimbo (1961),Yojimbo,1961,Action|Adventure,5053,4.172,4.1475
+Action,12,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)","Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",1966,Action|Adventure|Western,22922,4.134,4.1288
+Action,13,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,72151,4.13,4.1283
+Action,14,1233,"Boot, Das (Boat, The) (1981)","Boot, Das (Boat, The)",1981,Action|Drama|War,15804,4.129,4.1215
+Action,15,1197,"Princess Bride, The (1987)","Princess Bride, The",1987,Action|Adventure|Comedy|Fantasy|Romance,46957,4.119,4.1165
+Action,16,1208,Apocalypse Now (1979),Apocalypse Now,1979,Action|Drama|War,32518,4.12,4.1164
+Action,17,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,67408,4.112,4.1103
+Action,18,541,Blade Runner (1982),Blade Runner,1982,Action|Sci-Fi|Thriller,46289,4.11,4.1075
+Action,19,286897,Spider-Man: Across the Spider-Verse (2023),Spider-Man: Across the Spider-Verse,2023,Action|Adventure|Animation|Sci-Fi,1133,4.207,4.1053
+Action,20,1209,Once Upon a Time in the West (C'era una volta il West) (1968),Once Upon a Time in the West (C'era una volta il West),1968,Action|Drama|Western,7227,4.115,4.0992
+Adventure,1,2019,Seven Samurai (Shichinin no samurai) (1954),Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,16531,4.25,4.2413
+Adventure,2,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,33333,4.213,4.2089
+Adventure,3,908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+Adventure,4,6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+Adventure,5,195159,Spider-Man: Into the Spider-Verse (2018),Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation|Sci-Fi,10434,4.185,4.1726
+Adventure,6,163809,Over the Garden Wall (2013),Over the Garden Wall,2013,Adventure|Animation|Drama,1397,4.264,4.1718
+Adventure,7,3000,Princess Mononoke (Mononoke-hime) (1997),Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,17730,4.164,4.1569
+Adventure,8,3030,Yojimbo (1961),Yojimbo,1961,Action|Adventure,5053,4.172,4.1475
+Adventure,9,1136,Monty Python and the Holy Grail (1975),Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,46508,4.136,4.1334
+Adventure,10,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)","Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",1966,Action|Adventure|Western,22922,4.134,4.1288
+Adventure,11,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,72151,4.13,4.1283
+Adventure,12,1204,Lawrence of Arabia (1962),Lawrence of Arabia,1962,Adventure|Drama|War,15772,4.134,4.1264
+Adventure,13,1197,"Princess Bride, The (1987)","Princess Bride, The",1987,Action|Adventure|Comedy|Fantasy|Romance,46957,4.119,4.1165
+Adventure,14,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981,Action|Adventure,67408,4.112,4.1103
+Adventure,15,286897,Spider-Man: Across the Spider-Verse (2023),Spider-Man: Across the Spider-Verse,2023,Action|Adventure|Animation|Sci-Fi,1133,4.207,4.1053
+Adventure,16,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure|Animation|Fantasy|Romance,16009,4.112,4.1048
+Adventure,17,260,Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,85010,4.1,4.0987
+Adventure,18,1254,"Treasure of the Sierra Madre, The (1948)","Treasure of the Sierra Madre, The",1948,Action|Adventure|Drama|Western,6377,4.115,4.0972
+Adventure,19,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984,Adventure|Animation|Drama|Fantasy|Sci-Fi,7392,4.109,4.0937
+Adventure,20,7153,"Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Return of the King, The",2003,Action|Adventure|Drama|Fantasy,67449,4.094,4.0923
+Animation,1,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,33333,4.213,4.2089
+Animation,2,195159,Spider-Man: Into the Spider-Verse (2018),Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation|Sci-Fi,10434,4.185,4.1726
+Animation,3,163809,Over the Garden Wall (2013),Over the Garden Wall,2013,Adventure|Animation|Drama,1397,4.264,4.1718
+Animation,4,3000,Princess Mononoke (Mononoke-hime) (1997),Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,17730,4.164,4.1569
+Animation,5,5971,My Neighbor Totoro (Tonari no Totoro) (1988),My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,13556,4.162,4.1528
+Animation,6,163134,Your Name. (2016),Your Name.,2016,Animation|Drama|Fantasy|Romance,3764,4.144,4.113
+Animation,7,1148,Wallace & Gromit: The Wrong Trousers (1993),Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,17652,4.112,4.1055
+Animation,8,286897,Spider-Man: Across the Spider-Verse (2023),Spider-Man: Across the Spider-Verse,2023,Action|Adventure|Animation|Sci-Fi,1133,4.207,4.1053
+Animation,9,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure|Animation|Fantasy|Romance,16009,4.112,4.1048
+Animation,10,160718,Piper (2016),Piper,2016,Animation,1918,4.154,4.095
+Animation,11,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984,Adventure|Animation|Drama|Fantasy|Sci-Fi,7392,4.109,4.0937
+Animation,12,745,Wallace & Gromit: A Close Shave (1995),Wallace & Gromit: A Close Shave,1995,Animation|Children|Comedy,13944,4.095,4.087
+Animation,13,720,Wallace & Gromit: The Best of Aardman Animation (1996),Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,8612,4.095,4.0822
+Animation,14,5690,Grave of the Fireflies (Hotaru no haka) (1988),Grave of the Fireflies (Hotaru no haka),1988,Animation|Drama|War,6817,4.098,4.0818
+Animation,15,98491,Paperman (2012),Paperman,2012,Animation|Comedy|Romance,3725,4.106,4.0766
+Animation,16,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,7539,4.08,4.0658
+Animation,17,3429,Creature Comforts (1989),Creature Comforts,1989,Animation|Comedy,2791,4.094,4.0563
+Animation,18,1223,"Grand Day Out with Wallace and Gromit, A (1989)","Grand Day Out with Wallace and Gromit, A",1989,Adventure|Animation|Children|Comedy|Sci-Fi,8854,4.043,4.0317
+Animation,19,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Kiki's Delivery Service (Majo no takkyûbin),1989,Adventure|Animation|Children|Drama|Fantasy,6855,4.037,4.0226
+Animation,20,177765,Coco (2017),Coco,2017,Adventure|Animation|Children,9638,4.019,4.0091
+Children,1,5971,My Neighbor Totoro (Tonari no Totoro) (1988),My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,13556,4.162,4.1528
+Children,2,1148,Wallace & Gromit: The Wrong Trousers (1993),Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,17652,4.112,4.1055
+Children,3,745,Wallace & Gromit: A Close Shave (1995),Wallace & Gromit: A Close Shave,1995,Animation|Children|Comedy,13944,4.095,4.087
+Children,4,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,7539,4.08,4.0658
+Children,5,953,It's a Wonderful Life (1946),It's a Wonderful Life,1946,Children|Drama|Fantasy|Romance,18374,4.039,4.0335
+Children,6,1223,"Grand Day Out with Wallace and Gromit, A (1989)","Grand Day Out with Wallace and Gromit, A",1989,Adventure|Animation|Children|Comedy|Sci-Fi,8854,4.043,4.0317
+Children,7,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Kiki's Delivery Service (Majo no takkyûbin),1989,Adventure|Animation|Children|Drama|Fantasy,6855,4.037,4.0226
+Children,8,177765,Coco (2017),Coco,2017,Adventure|Animation|Children,9638,4.019,4.0091
+Children,9,60069,WALL·E (2008),WALL·E,2008,Adventure|Animation|Children|Romance|Sci-Fi,39993,4.008,4.0056
+Children,10,2804,"Christmas Story, A (1983)","Christmas Story, A",1983,Children|Comedy,15016,3.973,3.9672
+Children,11,117444,Song of the Sea (2014),Song of the Sea,2014,Animation|Children|Fantasy,1680,4.019,3.9672
+Children,12,170777,There Once Was a Dog (1982),There Once Was a Dog,1982,Animation|Children|Comedy,428,4.161,3.9607
+Children,13,68954,Up (2009),Up,2009,Adventure|Animation|Children|Drama,36382,3.95,3.9477
+Children,14,919,"Wizard of Oz, The (1939)","Wizard of Oz, The",1939,Adventure|Children|Fantasy|Musical,29260,3.92,3.9174
+Children,15,134853,Inside Out (2015),Inside Out,2015,Adventure|Animation|Children|Comedy|Drama|Fantasy,21483,3.91,3.9065
+Children,16,76093,How to Train Your Dragon (2010),How to Train Your Dragon,2010,Adventure|Animation|Children|Fantasy|IMAX,20142,3.9,3.8964
+Children,17,1,Toy Story (1995),Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy,68997,3.897,3.8959
+Children,18,225173,Soul (2020),Soul,2020,Adventure|Animation|Children|Comedy|Fantasy,4486,3.912,3.8958
+Children,19,95654,Geri's Game (1997),Geri's Game,1997,Animation|Children,1385,3.945,3.8931
+Children,20,95858,For the Birds (2000),For the Birds,2000,Animation|Children|Comedy,1720,3.934,3.8923
+Comedy,1,202439,Parasite (2019),Parasite,2019,Comedy|Drama,11670,4.312,4.2987
+Comedy,2,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,32830,4.203,4.1989
+Comedy,3,296,Pulp Fiction (1994),Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,98409,4.197,4.1956
+Comedy,4,2324,Life Is Beautiful (La Vita è bella) (1997),Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,29819,4.15,4.1459
+Comedy,5,1234,"Sting, The (1973)","Sting, The",1973,Comedy|Crime,18416,4.143,4.1364
+Comedy,6,1136,Monty Python and the Holy Grail (1975),Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,46508,4.136,4.1334
+Comedy,7,1197,"Princess Bride, The (1987)","Princess Bride, The",1987,Action|Adventure|Comedy|Fantasy|Romance,46957,4.119,4.1165
+Comedy,8,898,"Philadelphia Story, The (1940)","Philadelphia Story, The",1940,Comedy|Drama|Romance,7445,4.131,4.1152
+Comedy,9,608,Fargo (1996),Fargo,1996,Comedy|Crime|Drama|Thriller,58031,4.117,4.115
+Comedy,10,950,"Thin Man, The (1934)","Thin Man, The",1934,Comedy|Crime,3837,4.144,4.1135
+Comedy,11,92259,Intouchables (2011),Intouchables,2011,Comedy|Drama,18416,4.119,4.1127
+Comedy,12,1148,Wallace & Gromit: The Wrong Trousers (1993),Wallace & Gromit: The Wrong Trousers,1993,Animation|Children|Comedy|Crime,17652,4.112,4.1055
+Comedy,13,905,It Happened One Night (1934),It Happened One Night,1934,Comedy|Romance,5074,4.115,4.0928
+Comedy,14,745,Wallace & Gromit: A Close Shave (1995),Wallace & Gromit: A Close Shave,1995,Animation|Children|Comedy,13944,4.095,4.087
+Comedy,15,720,Wallace & Gromit: The Best of Aardman Animation (1996),Wallace & Gromit: The Best of Aardman Animation,1996,Adventure|Animation|Comedy,8612,4.095,4.0822
+Comedy,16,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","Amelie (Fabuleux destin d'Amélie Poulain, Le)",2001,Comedy|Romance,43459,4.082,4.0795
+Comedy,17,98491,Paperman (2012),Paperman,2012,Animation|Comedy|Romance,3725,4.106,4.0766
+Comedy,18,116897,Wild Tales (2014),Wild Tales,2014,Comedy|Drama|Thriller,2980,4.109,4.0726
+Comedy,19,3307,City Lights (1931),City Lights,1931,Comedy|Drama|Romance,3995,4.098,4.0709
+Comedy,20,4011,Snatch (2000),Snatch,2000,Comedy|Crime|Thriller,32509,4.067,4.0637
+Crime,1,318,"Shawshank Redemption, The (1994)","Shawshank Redemption, The",1994,Crime|Drama,102929,4.405,4.4033
+Crime,2,858,"Godfather, The (1972)","Godfather, The",1972,Crime|Drama,66440,4.317,4.3146
+Crime,3,50,"Usual Suspects, The (1995)","Usual Suspects, The",1995,Crime|Mystery|Thriller,67750,4.265,4.2628
+Crime,4,1221,"Godfather: Part II, The (1974)","Godfather: Part II, The",1974,Crime|Drama,43111,4.264,4.2606
+Crime,5,2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,77332,4.229,4.2272
+Crime,6,296,Pulp Fiction (1994),Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,98409,4.197,4.1956
+Crime,7,1213,Goodfellas (1990),Goodfellas,1990,Crime|Drama,42003,4.188,4.1849
+Crime,8,6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+Crime,9,58559,"Dark Knight, The (2008)","Dark Knight, The",2008,Action|Crime|Drama|IMAX,59334,4.173,4.1708
+Crime,10,3435,Double Indemnity (1944),Double Indemnity,1944,Crime|Drama|Film-Noir,6586,4.183,4.1637
+Crime,11,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+Crime,12,1252,Chinatown (1974),Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,20730,4.155,4.149
+Crime,13,593,"Silence of the Lambs, The (1991)","Silence of the Lambs, The",1991,Crime|Horror|Thriller,90330,4.148,4.1466
+Crime,14,1234,"Sting, The (1973)","Sting, The",1973,Comedy|Crime,18416,4.143,4.1364
+Crime,15,1284,"Big Sleep, The (1946)","Big Sleep, The",1946,Crime|Film-Noir|Mystery,6665,4.151,4.1329
+Crime,16,1260,M (1931),M,1931,Crime|Film-Noir|Thriller,5728,4.151,4.13
+Crime,17,48516,"Departed, The (2006)","Departed, The",2006,Crime|Drama|Thriller,35236,4.131,4.1276
+Crime,18,2329,American History X (1998),American History X,1998,Crime|Drama,38967,4.13,4.1269
+Crime,19,608,Fargo (1996),Fargo,1996,Comedy|Crime|Drama|Thriller,58031,4.117,4.115
+Crime,20,950,"Thin Man, The (1934)","Thin Man, The",1934,Comedy|Crime,3837,4.144,4.1135
+Documentary,1,159817,Planet Earth (2006),Planet Earth,2006,Documentary,2948,4.444,4.3855
+Documentary,2,171011,Planet Earth II (2016),Planet Earth II,2016,Documentary,1956,4.447,4.3614
+Documentary,3,179135,Blue Planet II (2017),Blue Planet II,2017,Documentary,1163,4.3,4.1866
+Documentary,4,142115,The Blue Planet (2001),The Blue Planet,2001,Documentary,1061,4.247,4.133
+Documentary,5,1147,When We Were Kings (1996),When We Were Kings,1996,Documentary,3998,4.126,4.0976
+Documentary,6,2859,Stop Making Sense (1984),Stop Making Sense,1984,Documentary|Musical,2622,4.123,4.0809
+Documentary,7,1189,"Thin Blue Line, The (1988)","Thin Blue Line, The",1988,Documentary,3126,4.093,4.0591
+Documentary,8,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)","Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The",2003,Documentary|War,3275,4.082,4.0502
+Documentary,9,131724,The Jinx: The Life and Deaths of Robert Durst (2015),The Jinx: The Life and Deaths of Robert Durst,2015,Documentary,1285,4.131,4.0501
+Documentary,10,3677,Baraka (1992),Baraka,1992,Documentary,2175,4.087,4.0401
+Documentary,11,1361,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Paradise Lost: The Child Murders at Robin Hood Hills,1996,Documentary,1863,4.077,4.024
+Documentary,12,246,Hoop Dreams (1994),Hoop Dreams,1994,Documentary,10852,4.025,4.0161
+Documentary,13,65188,Dear Zachary: A Letter to a Son About His Father (2008),Dear Zachary: A Letter to a Son About His Father,2008,Documentary,1312,4.088,4.0143
+Documentary,14,96606,Samsara (2011),Samsara,2011,Documentary,1393,4.075,4.0067
+Documentary,15,105250,"Century of the Self, The (2002)","Century of the Self, The",2002,Documentary,395,4.233,3.9971
+Documentary,16,3077,42 Up (1998),42 Up,1998,Documentary,1225,4.072,3.9961
+Documentary,17,7256,Touching the Void (2003),Touching the Void,2003,Adventure|Documentary,2851,4.027,3.9945
+Documentary,18,100044,Human Planet (2011),Human Planet,2011,Documentary,489,4.174,3.9875
+Documentary,19,193950,Free Solo (2018),Free Solo,2018,Documentary,2049,4.031,3.9866
+Documentary,20,162,Crumb (1994),Crumb,1994,Documentary,6363,3.998,3.9838
+Drama,1,318,"Shawshank Redemption, The (1994)","Shawshank Redemption, The",1994,Crime|Drama,102929,4.405,4.4033
+Drama,2,170705,Band of Brothers (2001),Band of Brothers,2001,Action|Drama|War,2811,4.427,4.367
+Drama,3,858,"Godfather, The (1972)","Godfather, The",1972,Crime|Drama,66440,4.317,4.3146
+Drama,4,202439,Parasite (2019),Parasite,2019,Comedy|Drama,11670,4.312,4.2987
+Drama,5,1221,"Godfather: Part II, The (1974)","Godfather: Part II, The",1974,Crime|Drama,43111,4.264,4.2606
+Drama,6,1203,12 Angry Men (1957),12 Angry Men,1957,Drama,21863,4.265,4.2583
+Drama,7,2019,Seven Samurai (Shichinin no samurai) (1954),Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,16531,4.25,4.2413
+Drama,8,527,Schindler's List (1993),Schindler's List,1993,Drama|War,73849,4.237,4.2351
+Drama,9,2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,77332,4.229,4.2272
+Drama,10,1193,One Flew Over the Cuckoo's Nest (1975),One Flew Over the Cuckoo's Nest,1975,Drama,44592,4.204,4.201
+Drama,11,296,Pulp Fiction (1994),Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,98409,4.197,4.1956
+Drama,12,912,Casablanca (1942),Casablanca,1942,Drama|Romance,32190,4.195,4.1909
+Drama,13,44555,"Lives of Others, The (Das leben der Anderen) (2006)","Lives of Others, The (Das leben der Anderen)",2006,Drama|Romance|Thriller,12273,4.199,4.1882
+Drama,14,1213,Goodfellas (1990),Goodfellas,1990,Crime|Drama,42003,4.188,4.1849
+Drama,15,198185,Twin Peaks (1989),Twin Peaks,1989,Drama|Mystery,1140,4.299,4.1839
+Drama,16,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Sunset Blvd. (a.k.a. Sunset Boulevard),1950,Drama|Film-Noir|Romance,9072,4.196,4.1816
+Drama,17,6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+Drama,18,163809,Over the Garden Wall (2013),Over the Garden Wall,2013,Adventure|Animation|Drama,1397,4.264,4.1718
+Drama,19,58559,"Dark Knight, The (2008)","Dark Knight, The",2008,Action|Crime|Drama|IMAX,59334,4.173,4.1708
+Drama,20,3435,Double Indemnity (1944),Double Indemnity,1944,Crime|Drama|Film-Noir,6586,4.183,4.1637
+Fantasy,1,5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,33333,4.213,4.2089
+Fantasy,2,3000,Princess Mononoke (Mononoke-hime) (1997),Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,17730,4.164,4.1569
+Fantasy,3,5971,My Neighbor Totoro (Tonari no Totoro) (1988),My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,13556,4.162,4.1528
+Fantasy,4,1136,Monty Python and the Holy Grail (1975),Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,46508,4.136,4.1334
+Fantasy,5,1197,"Princess Bride, The (1987)","Princess Bride, The",1987,Action|Adventure|Comedy|Fantasy|Romance,46957,4.119,4.1165
+Fantasy,6,163134,Your Name. (2016),Your Name.,2016,Animation|Drama|Fantasy|Romance,3764,4.144,4.113
+Fantasy,7,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure|Animation|Fantasy|Romance,16009,4.112,4.1048
+Fantasy,8,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984,Adventure|Animation|Drama|Fantasy|Sci-Fi,7392,4.109,4.0937
+Fantasy,9,7153,"Lord of the Rings: The Return of the King, The (2003)","Lord of the Rings: The Return of the King, The",2003,Action|Adventure|Drama|Fantasy,67449,4.094,4.0923
+Fantasy,10,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)","Lord of the Rings: The Fellowship of the Ring, The",2001,Adventure|Fantasy,73122,4.092,4.0905
+Fantasy,11,5952,"Lord of the Rings: The Two Towers, The (2002)","Lord of the Rings: The Two Towers, The",2002,Adventure|Fantasy,67463,4.072,4.0704
+Fantasy,12,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,7539,4.08,4.0658
+Fantasy,13,953,It's a Wonderful Life (1946),It's a Wonderful Life,1946,Children|Drama|Fantasy|Romance,18374,4.039,4.0335
+Fantasy,14,26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Kiki's Delivery Service (Majo no takkyûbin),1989,Adventure|Animation|Children|Drama|Fantasy,6855,4.037,4.0226
+Fantasy,15,1251,8 1/2 (8½) (1963),8 1/2 (8½),1963,Drama|Fantasy,4322,4.026,4.0041
+Fantasy,16,1199,Brazil (1985),Brazil,1985,Fantasy|Sci-Fi,18702,4.007,4.002
+Fantasy,17,1211,"Wings of Desire (Himmel über Berlin, Der) (1987)","Wings of Desire (Himmel über Berlin, Der)",1987,Drama|Fantasy|Romance,4387,4.01,3.9891
+Fantasy,18,27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)","Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni)",1997,Action|Animation|Drama|Fantasy|Sci-Fi,1727,4.028,3.9765
+Fantasy,19,1278,Young Frankenstein (1974),Young Frankenstein,1974,Comedy|Fantasy,18311,3.977,3.9722
+Fantasy,20,117444,Song of the Sea (2014),Song of the Sea,2014,Animation|Children|Fantasy,1680,4.019,3.9672
+Film-Noir,1,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Sunset Blvd. (a.k.a. Sunset Boulevard),1950,Drama|Film-Noir|Romance,9072,4.196,4.1816
+Film-Noir,2,1212,"Third Man, The (1949)","Third Man, The",1949,Film-Noir|Mystery|Thriller,8823,4.185,4.1704
+Film-Noir,3,3435,Double Indemnity (1944),Double Indemnity,1944,Crime|Drama|Film-Noir,6586,4.183,4.1637
+Film-Noir,4,1252,Chinatown (1974),Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,20730,4.155,4.149
+Film-Noir,5,913,"Maltese Falcon, The (1941)","Maltese Falcon, The",1941,Film-Noir|Mystery,14190,4.146,4.1374
+Film-Noir,6,1284,"Big Sleep, The (1946)","Big Sleep, The",1946,Crime|Film-Noir|Mystery,6665,4.151,4.1329
+Film-Noir,7,1260,M (1931),M,1931,Crime|Film-Noir|Thriller,5728,4.151,4.13
+Film-Noir,8,930,Notorious (1946),Notorious,1946,Film-Noir|Romance|Thriller,5962,4.147,4.1269
+Film-Noir,9,1248,Touch of Evil (1958),Touch of Evil,1958,Crime|Film-Noir|Thriller,5718,4.124,4.1039
+Film-Noir,10,2186,Strangers on a Train (1951),Strangers on a Train,1951,Crime|Drama|Film-Noir|Thriller,6568,4.102,4.0851
+Film-Noir,11,7926,High and Low (Tengoku to jigoku) (1963),High and Low (Tengoku to jigoku),1963,Crime|Drama|Film-Noir|Thriller,1260,4.164,4.0771
+Film-Noir,12,1617,L.A. Confidential (1997),L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,32831,4.056,4.0528
+Film-Noir,13,942,Laura (1944),Laura,1944,Crime|Film-Noir|Mystery,3235,4.048,4.0179
+Film-Noir,14,2066,Out of the Past (1947),Out of the Past,1947,Film-Noir,1486,4.046,3.985
+Film-Noir,15,2726,"Killing, The (1956)","Killing, The",1956,Crime|Film-Noir,2876,4.013,3.9817
+Film-Noir,16,1273,Down by Law (1986),Down by Law,1986,Comedy|Drama|Film-Noir,3267,3.999,3.972
+Film-Noir,17,3683,Blood Simple (1984),Blood Simple,1984,Crime|Drama|Film-Noir,6467,3.983,3.9695
+Film-Noir,18,4432,Sweet Smell of Success (1957),Sweet Smell of Success,1957,Drama|Film-Noir,1170,4.024,3.9522
+Film-Noir,19,7013,"Night of the Hunter, The (1955)","Night of the Hunter, The",1955,Drama|Film-Noir|Thriller,2474,3.985,3.9511
+Film-Noir,20,3334,Key Largo (1948),Key Largo,1948,Crime|Drama|Film-Noir|Thriller,3211,3.976,3.95
+Horror,1,593,"Silence of the Lambs, The (1991)","Silence of the Lambs, The",1991,Crime|Horror|Thriller,90330,4.148,4.1466
+Horror,2,1214,Alien (1979),Alien,1979,Horror|Sci-Fi,45211,4.068,4.0656
+Horror,3,1219,Psycho (1960),Psycho,1960,Crime|Horror,27027,4.063,4.0591
+Horror,4,1258,"Shining, The (1980)","Shining, The",1980,Horror,38640,4.036,4.0334
+Horror,5,1200,Aliens (1986),Aliens,1986,Action|Adventure|Horror|Sci-Fi,38846,4.007,4.0046
+Horror,6,2762,"Sixth Sense, The (1999)","Sixth Sense, The",1999,Drama|Horror|Mystery,57010,4.003,4.0014
+Horror,7,115122,What We Do in the Shadows (2014),What We Do in the Shadows,2014,Comedy|Horror,4918,4.01,3.9913
+Horror,8,168250,Get Out (2017),Get Out,2017,Horror,11679,3.991,3.9833
+Horror,9,2810,Perfect Blue (1997),Perfect Blue,1997,Animation|Horror|Mystery|Thriller,2826,3.977,3.9476
+Horror,10,61240,Let the Right One In (Låt den rätte komma in) (2008),Let the Right One In (Låt den rätte komma in),2008,Drama|Fantasy|Horror|Romance,7318,3.944,3.9331
+Horror,11,2288,"Thing, The (1982)","Thing, The",1982,Action|Horror|Sci-Fi|Thriller,14719,3.936,3.9306
+Horror,12,7116,Diabolique (Les diaboliques) (1955),Diabolique (Les diaboliques),1955,Horror|Mystery|Thriller,1761,3.964,3.92
+Horror,13,8874,Shaun of the Dead (2004),Shaun of the Dead,2004,Comedy|Horror,26914,3.878,3.8755
+Horror,14,6987,"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das) (1920)","Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das)",1920,Crime|Fantasy|Horror,2283,3.883,3.8549
+Horror,15,1348,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)","Nosferatu (Nosferatu, eine Symphonie des Grauens)",1922,Horror,4805,3.863,3.8499
+Horror,16,7505,"Kingdom, The (Riget) (1994)","Kingdom, The (Riget)",1994,Drama|Horror|Mystery,504,3.974,3.8491
+Horror,17,83134,Tucker & Dale vs Evil (2010),Tucker & Dale vs Evil,2010,Comedy|Horror,5032,3.833,3.8216
+Horror,18,2648,Frankenstein (1931),Frankenstein,1931,Drama|Horror|Sci-Fi,4175,3.817,3.8041
+Horror,19,27033,"Kingdom II, The (Riget II) (1997)","Kingdom II, The (Riget II)",1997,Drama|Horror|Mystery,283,3.986,3.7993
+Horror,20,2160,Rosemary's Baby (1968),Rosemary's Baby,1968,Drama|Horror|Thriller,10690,3.804,3.7991
+IMAX,1,58559,"Dark Knight, The (2008)","Dark Knight, The",2008,Action|Crime|Drama|IMAX,59334,4.173,4.1708
+IMAX,2,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+IMAX,3,109487,Interstellar (2014),Interstellar,2014,Sci-Fi|IMAX,37157,4.133,4.1298
+IMAX,4,91529,"Dark Knight Rises, The (2012)","Dark Knight Rises, The",2012,Action|Adventure|Crime|IMAX,30369,3.964,3.9612
+IMAX,5,111759,Edge of Tomorrow (2014),Edge of Tomorrow,2014,Action|Sci-Fi|IMAX,19760,3.958,3.9537
+IMAX,6,33794,Batman Begins (2005),Batman Begins,2005,Action|Crime|IMAX,41686,3.92,3.9182
+IMAX,7,44191,V for Vendetta (2006),V for Vendetta,2006,Action|Sci-Fi|Thriller|IMAX,35173,3.904,3.9019
+IMAX,8,76093,How to Train Your Dragon (2010),How to Train Your Dragon,2010,Adventure|Animation|Children|Fantasy|IMAX,20142,3.9,3.8964
+IMAX,9,88125,Harry Potter and the Deathly Hallows: Part 2 (2011),Harry Potter and the Deathly Hallows: Part 2,2011,Action|Adventure|Drama|Fantasy|Mystery|IMAX,20227,3.892,3.8885
+IMAX,10,150,Apollo 13 (1995),Apollo 13,1995,Adventure|Drama|IMAX,55940,3.878,3.8768
+IMAX,11,1797,Everest (1998),Everest,1998,Documentary|IMAX,1934,3.879,3.8467
+IMAX,12,364,"Lion King, The (1994)","Lion King, The",1994,Adventure|Animation|Children|Drama|Musical|IMAX,51518,3.833,3.8318
+IMAX,13,81834,Harry Potter and the Deathly Hallows: Part 1 (2010),Harry Potter and the Deathly Hallows: Part 1,2010,Action|Adventure|Fantasy|IMAX,20969,3.831,3.8282
+IMAX,14,78499,Toy Story 3 (2010),Toy Story 3,2010,Adventure|Animation|Children|Comedy|Fantasy|IMAX,20327,3.828,3.8251
+IMAX,15,8368,Harry Potter and the Prisoner of Azkaban (2004),Harry Potter and the Prisoner of Azkaban,2004,Adventure|Fantasy|IMAX,31427,3.817,3.8152
+IMAX,16,69844,Harry Potter and the Half-Blood Prince (2009),Harry Potter and the Half-Blood Prince,2009,Adventure|Fantasy|Mystery|Romance|IMAX,21033,3.817,3.8143
+IMAX,17,68358,Star Trek (2009),Star Trek,2009,Action|Adventure|Sci-Fi|IMAX,21229,3.8,3.7975
+IMAX,18,105504,Captain Phillips (2013),Captain Phillips,2013,Adventure|Drama|Thriller|IMAX,7505,3.788,3.7814
+IMAX,19,40815,Harry Potter and the Goblet of Fire (2005),Harry Potter and the Goblet of Fire,2005,Adventure|Fantasy|Thriller|IMAX,26211,3.762,3.7603
+IMAX,20,54001,Harry Potter and the Order of the Phoenix (2007),Harry Potter and the Order of the Phoenix,2007,Adventure|Drama|Fantasy|IMAX,21073,3.755,3.7529
+Musical,1,2859,Stop Making Sense (1984),Stop Making Sense,1984,Documentary|Musical,2622,4.123,4.0809
+Musical,2,1256,Duck Soup (1933),Duck Soup,1933,Comedy|Musical|War,6391,4.077,4.0604
+Musical,3,899,Singin' in the Rain (1952),Singin' in the Rain,1952,Comedy|Musical|Romance,12913,4.045,4.0372
+Musical,4,945,Top Hat (1935),Top Hat,1935,Comedy|Musical|Romance,2308,4.035,3.9948
+Musical,5,7132,"Night at the Opera, A (1935)","Night at the Opera, A",1935,Comedy|Musical|Romance,1989,3.98,3.9391
+Musical,6,2677,Buena Vista Social Club (1999),Buena Vista Social Club,1999,Documentary|Musical,2877,3.954,3.9266
+Musical,7,1066,Shall We Dance (1937),Shall We Dance,1937,Comedy|Musical|Romance,1477,3.974,3.9214
+Musical,8,919,"Wizard of Oz, The (1939)","Wizard of Oz, The",1939,Adventure|Children|Fantasy|Musical,29260,3.92,3.9174
+Musical,9,66934,Dr. Horrible's Sing-Along Blog (2008),Dr. Horrible's Sing-Along Blog,2008,Comedy|Drama|Musical|Sci-Fi,5158,3.932,3.9171
+Musical,10,8542,"Day at the Races, A (1937)","Day at the Races, A",1937,Comedy|Musical,1040,3.958,3.8895
+Musical,11,914,My Fair Lady (1964),My Fair Lady,1964,Comedy|Drama|Musical|Romance,11077,3.895,3.8886
+Musical,12,4857,Fiddler on the Roof (1971),Fiddler on the Roof,1971,Drama|Musical,3576,3.902,3.8825
+Musical,13,6660,"Red Shoes, The (1948)","Red Shoes, The",1948,Drama|Fantasy|Musical|Romance,901,3.96,3.8825
+Musical,14,2303,Nashville (1975),Nashville,1975,Drama|Musical,2562,3.894,3.8679
+Musical,15,7706,Animal Crackers (1930),Animal Crackers,1930,Comedy|Musical,1123,3.912,3.8549
+Musical,16,7836,Woodstock (1970),Woodstock,1970,Documentary|Musical,1196,3.905,3.8519
+Musical,17,907,"Gay Divorcee, The (1934)","Gay Divorcee, The",1934,Comedy|Musical|Romance,950,3.918,3.8512
+Musical,18,3545,Cabaret (1972),Cabaret,1972,Drama|Musical,3712,3.867,3.85
+Musical,19,53123,Once (2006),Once,2006,Drama|Musical|Romance,3760,3.864,3.8473
+Musical,20,549,Thirty-Two Short Films About Glenn Gould (1993),Thirty-Two Short Films About Glenn Gould,1993,Drama|Musical,1453,3.887,3.8443
+Mystery,1,50,"Usual Suspects, The (1995)","Usual Suspects, The",1995,Crime|Mystery|Thriller,67750,4.265,4.2628
+Mystery,2,904,Rear Window (1954),Rear Window,1954,Mystery|Thriller,24883,4.227,4.2214
+Mystery,3,198185,Twin Peaks (1989),Twin Peaks,1989,Drama|Mystery,1140,4.299,4.1839
+Mystery,4,908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+Mystery,5,1212,"Third Man, The (1949)","Third Man, The",1949,Film-Noir|Mystery|Thriller,8823,4.185,4.1704
+Mystery,6,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+Mystery,7,1252,Chinatown (1974),Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,20730,4.155,4.149
+Mystery,8,4226,Memento (2000),Memento,2000,Mystery|Thriller,53658,4.142,4.1397
+Mystery,9,913,"Maltese Falcon, The (1941)","Maltese Falcon, The",1941,Film-Noir|Mystery,14190,4.146,4.1374
+Mystery,10,1284,"Big Sleep, The (1946)","Big Sleep, The",1946,Crime|Film-Noir|Mystery,6665,4.151,4.1329
+Mystery,11,48780,"Prestige, The (2006)","Prestige, The",2006,Drama|Mystery|Sci-Fi|Thriller,32965,4.118,4.1144
+Mystery,12,903,Vertigo (1958),Vertigo,1958,Drama|Mystery|Romance|Thriller,19529,4.117,4.111
+Mystery,13,1089,Reservoir Dogs (1992),Reservoir Dogs,1992,Crime|Mystery|Thriller,43730,4.093,4.0904
+Mystery,14,5291,Rashomon (Rashômon) (1950),Rashomon (Rashômon),1950,Crime|Drama|Mystery,6039,4.106,4.0875
+Mystery,15,47,Seven (a.k.a. Se7en) (1995),Seven (a.k.a. Se7en),1995,Mystery|Thriller,63298,4.087,4.0852
+Mystery,16,27773,Old Boy (2003),Old Boy,2003,Mystery|Thriller,17331,4.089,4.0826
+Mystery,17,1131,Jean de Florette (1986),Jean de Florette,1986,Drama|Mystery,3524,4.103,4.0722
+Mystery,18,923,Citizen Kane (1941),Citizen Kane,1941,Drama|Mystery,22920,4.071,4.0663
+Mystery,19,170355,Mulholland Dr. (1999),Mulholland Dr.,1999,Drama|Mystery|Romance,1481,4.129,4.0577
+Mystery,20,1232,Stalker (1979),Stalker,1979,Drama|Mystery|Sci-Fi,3905,4.081,4.0542
+Romance,1,912,Casablanca (1942),Casablanca,1942,Drama|Romance,32190,4.195,4.1909
+Romance,2,44555,"Lives of Others, The (Das leben der Anderen) (2006)","Lives of Others, The (Das leben der Anderen)",2006,Drama|Romance|Thriller,12273,4.199,4.1882
+Romance,3,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Sunset Blvd. (a.k.a. Sunset Boulevard),1950,Drama|Film-Noir|Romance,9072,4.196,4.1816
+Romance,4,908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+Romance,5,2324,Life Is Beautiful (La Vita è bella) (1997),Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,29819,4.15,4.1459
+Romance,6,930,Notorious (1946),Notorious,1946,Film-Noir|Romance|Thriller,5962,4.147,4.1269
+Romance,7,1197,"Princess Bride, The (1987)","Princess Bride, The",1987,Action|Adventure|Comedy|Fantasy|Romance,46957,4.119,4.1165
+Romance,8,898,"Philadelphia Story, The (1940)","Philadelphia Story, The",1940,Comedy|Drama|Romance,7445,4.131,4.1152
+Romance,9,163134,Your Name. (2016),Your Name.,2016,Animation|Drama|Fantasy|Romance,3764,4.144,4.113
+Romance,10,903,Vertigo (1958),Vertigo,1958,Drama|Mystery|Romance|Thriller,19529,4.117,4.111
+Romance,11,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Howl's Moving Castle (Hauru no ugoku shiro),2004,Adventure|Animation|Fantasy|Romance,16009,4.112,4.1048
+Romance,12,905,It Happened One Night (1934),It Happened One Night,1934,Comedy|Romance,5074,4.115,4.0928
+Romance,13,2858,American Beauty (1999),American Beauty,1999,Drama|Romance,65158,4.093,4.0913
+Romance,14,1704,Good Will Hunting (1997),Good Will Hunting,1997,Drama|Romance,50824,4.091,4.0888
+Romance,15,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)","Amelie (Fabuleux destin d'Amélie Poulain, Le)",2001,Comedy|Romance,43459,4.082,4.0795
+Romance,16,1224,Henry V (1989),Henry V,1989,Action|Drama|Romance|War,4819,4.101,4.0782
+Romance,17,98491,Paperman (2012),Paperman,2012,Animation|Comedy|Romance,3725,4.106,4.0766
+Romance,18,3307,City Lights (1931),City Lights,1931,Comedy|Drama|Romance,3995,4.098,4.0709
+Romance,19,7361,Eternal Sunshine of the Spotless Mind (2004),Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,44430,4.065,4.0626
+Romance,20,3462,Modern Times (1936),Modern Times,1936,Comedy|Drama|Romance,6051,4.079,4.0614
+Sci-Fi,1,195159,Spider-Man: Into the Spider-Verse (2018),Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation|Sci-Fi,10434,4.185,4.1726
+Sci-Fi,2,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+Sci-Fi,3,2571,"Matrix, The (1999)","Matrix, The",1999,Action|Sci-Fi|Thriller,93808,4.156,4.1547
+Sci-Fi,4,109487,Interstellar (2014),Interstellar,2014,Sci-Fi|IMAX,37157,4.133,4.1298
+Sci-Fi,5,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,72151,4.13,4.1283
+Sci-Fi,6,48780,"Prestige, The (2006)","Prestige, The",2006,Drama|Mystery|Sci-Fi|Thriller,32965,4.118,4.1144
+Sci-Fi,7,541,Blade Runner (1982),Blade Runner,1982,Action|Sci-Fi|Thriller,46289,4.11,4.1075
+Sci-Fi,8,286897,Spider-Man: Across the Spider-Verse (2023),Spider-Man: Across the Spider-Verse,2023,Action|Adventure|Animation|Sci-Fi,1133,4.207,4.1053
+Sci-Fi,9,260,Star Wars: Episode IV - A New Hope (1977),Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Sci-Fi,85010,4.1,4.0987
+Sci-Fi,10,7099,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984,Adventure|Animation|Drama|Fantasy|Sci-Fi,7392,4.109,4.0937
+Sci-Fi,11,6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986,Action|Adventure|Animation|Children|Fantasy|Sci-Fi,7539,4.08,4.0658
+Sci-Fi,12,1214,Alien (1979),Alien,1979,Horror|Sci-Fi,45211,4.068,4.0656
+Sci-Fi,13,7361,Eternal Sunshine of the Spotless Mind (2004),Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,44430,4.065,4.0626
+Sci-Fi,14,228099,Firefly (2002),Firefly,2002,Action|Adventure|Sci-Fi|Western,922,4.176,4.0608
+Sci-Fi,15,1232,Stalker (1979),Stalker,1979,Drama|Mystery|Sci-Fi,3905,4.081,4.0542
+Sci-Fi,16,164179,Arrival (2016),Arrival,2016,Sci-Fi,19742,4.045,4.0398
+Sci-Fi,17,1223,"Grand Day Out with Wallace and Gromit, A (1989)","Grand Day Out with Wallace and Gromit, A",1989,Adventure|Animation|Children|Comedy|Sci-Fi,8854,4.043,4.0317
+Sci-Fi,18,270698,Everything Everywhere All at Once (2022),Everything Everywhere All at Once,2022,Action|Comedy|Sci-Fi,3989,4.052,4.0271
+Sci-Fi,19,134130,The Martian (2015),The Martian,2015,Adventure|Drama|Sci-Fi,28104,4.025,4.0215
+Sci-Fi,20,60069,WALL·E (2008),WALL·E,2008,Adventure|Animation|Children|Romance|Sci-Fi,39993,4.008,4.0056
+Thriller,1,50,"Usual Suspects, The (1995)","Usual Suspects, The",1995,Crime|Mystery|Thriller,67750,4.265,4.2628
+Thriller,2,2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,77332,4.229,4.2272
+Thriller,3,904,Rear Window (1954),Rear Window,1954,Mystery|Thriller,24883,4.227,4.2214
+Thriller,4,296,Pulp Fiction (1994),Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,98409,4.197,4.1956
+Thriller,5,44555,"Lives of Others, The (Das leben der Anderen) (2006)","Lives of Others, The (Das leben der Anderen)",2006,Drama|Romance|Thriller,12273,4.199,4.1882
+Thriller,6,908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+Thriller,7,6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+Thriller,8,1212,"Third Man, The (1949)","Third Man, The",1949,Film-Noir|Mystery|Thriller,8823,4.185,4.1704
+Thriller,9,79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+Thriller,10,2571,"Matrix, The (1999)","Matrix, The",1999,Action|Sci-Fi|Thriller,93808,4.156,4.1547
+Thriller,11,1252,Chinatown (1974),Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,20730,4.155,4.149
+Thriller,12,593,"Silence of the Lambs, The (1991)","Silence of the Lambs, The",1991,Crime|Horror|Thriller,90330,4.148,4.1466
+Thriller,13,4226,Memento (2000),Memento,2000,Mystery|Thriller,53658,4.142,4.1397
+Thriller,14,1260,M (1931),M,1931,Crime|Film-Noir|Thriller,5728,4.151,4.13
+Thriller,15,48516,"Departed, The (2006)","Departed, The",2006,Crime|Drama|Thriller,35236,4.131,4.1276
+Thriller,16,930,Notorious (1946),Notorious,1946,Film-Noir|Romance|Thriller,5962,4.147,4.1269
+Thriller,17,608,Fargo (1996),Fargo,1996,Comedy|Crime|Drama|Thriller,58031,4.117,4.115
+Thriller,18,48780,"Prestige, The (2006)","Prestige, The",2006,Drama|Mystery|Sci-Fi|Thriller,32965,4.118,4.1144
+Thriller,19,903,Vertigo (1958),Vertigo,1958,Drama|Mystery|Romance|Thriller,19529,4.117,4.111
+Thriller,20,541,Blade Runner (1982),Blade Runner,1982,Action|Sci-Fi|Thriller,46289,4.11,4.1075
+War,1,170705,Band of Brothers (2001),Band of Brothers,2001,Action|Drama|War,2811,4.427,4.367
+War,2,527,Schindler's List (1993),Schindler's List,1993,Drama|War,73849,4.237,4.2351
+War,3,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,32830,4.203,4.1989
+War,4,1178,Paths of Glory (1957),Paths of Glory,1957,Drama|War,5490,4.179,4.1561
+War,5,2324,Life Is Beautiful (La Vita è bella) (1997),Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,29819,4.15,4.1459
+War,6,1204,Lawrence of Arabia (1962),Lawrence of Arabia,1962,Adventure|Drama|War,15772,4.134,4.1264
+War,7,1217,Ran (1985),Ran,1985,Drama|War,6350,4.141,4.1223
+War,8,1233,"Boot, Das (Boat, The) (1981)","Boot, Das (Boat, The)",1981,Action|Drama|War,15804,4.129,4.1215
+War,9,1208,Apocalypse Now (1979),Apocalypse Now,1979,Action|Drama|War,32518,4.12,4.1164
+War,10,6818,Come and See (Idi i smotri) (1985),Come and See (Idi i smotri),1985,Drama|War,1498,4.174,4.0981
+War,11,1262,"Great Escape, The (1963)","Great Escape, The",1963,Action|Adventure|Drama|War,13217,4.096,4.0876
+War,12,1250,"Bridge on the River Kwai, The (1957)","Bridge on the River Kwai, The",1957,Adventure|Drama|War,14726,4.091,4.0835
+War,13,5690,Grave of the Fireflies (Hotaru no haka) (1988),Grave of the Fireflies (Hotaru no haka),1988,Animation|Drama|War,6817,4.098,4.0818
+War,14,1267,"Manchurian Candidate, The (1962)","Manchurian Candidate, The",1962,Crime|Thriller|War,10028,4.09,4.079
+War,15,1224,Henry V (1989),Henry V,1989,Action|Drama|Romance|War,4819,4.101,4.0782
+War,16,3134,Grand Illusion (La grande illusion) (1937),Grand Illusion (La grande illusion),1937,Drama|War,1963,4.115,4.0609
+War,17,1256,Duck Soup (1933),Duck Soup,1933,Comedy|Musical|War,6391,4.077,4.0604
+War,18,1299,"Killing Fields, The (1984)","Killing Fields, The",1984,Drama|War,7712,4.067,4.0534
+War,19,356,Forrest Gump (1994),Forrest Gump,1994,Comedy|Drama|Romance|War,100296,4.053,4.052
+War,20,7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)","Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The",2003,Documentary|War,3275,4.082,4.0502
+Western,1,1201,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)","Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",1966,Action|Adventure|Western,22922,4.134,4.1288
+Western,2,1209,Once Upon a Time in the West (C'era una volta il West) (1968),Once Upon a Time in the West (C'era una volta il West),1968,Action|Drama|Western,7227,4.115,4.0992
+Western,3,1254,"Treasure of the Sierra Madre, The (1948)","Treasure of the Sierra Madre, The",1948,Action|Adventure|Drama|Western,6377,4.115,4.0972
+Western,4,228099,Firefly (2002),Firefly,2002,Action|Adventure|Sci-Fi|Western,922,4.176,4.0608
+Western,5,800,Lone Star (1996),Lone Star,1996,Drama|Mystery|Western,7322,4.054,4.0401
+Western,6,1304,Butch Cassidy and the Sundance Kid (1969),Butch Cassidy and the Sundance Kid,1969,Action|Western,17587,4.042,4.0362
+Western,7,56782,There Will Be Blood (2007),There Will Be Blood,2007,Drama|Western,15494,4.032,4.0256
+Western,8,99114,Django Unchained (2012),Django Unchained,2012,Action|Drama|Western,32043,4.026,4.0229
+Western,9,1283,High Noon (1952),High Noon,1952,Drama|Western,5840,4.03,4.0135
+Western,10,3681,For a Few Dollars More (Per qualche dollaro in più) (1965),For a Few Dollars More (Per qualche dollaro in più),1965,Action|Drama|Thriller|Western,6977,4.004,3.9908
+Western,11,1266,Unforgiven (1992),Unforgiven,1992,Drama|Western,17593,3.993,3.9878
+Western,12,3037,Little Big Man (1970),Little Big Man,1970,Western,4273,3.962,3.9428
+Western,13,2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)","Fistful of Dollars, A (Per un pugno di dollari)",1964,Action|Western,9062,3.947,3.938
+Western,14,599,"Wild Bunch, The (1969)","Wild Bunch, The",1969,Adventure|Western,3824,3.946,3.9255
+Western,15,4406,"Man Who Shot Liberty Valance, The (1962)","Man Who Shot Liberty Valance, The",1962,Crime|Drama|Western,2425,3.955,3.9228
+Western,16,3467,Hud (1963),Hud,1963,Drama|Western,1711,3.955,3.9108
+Western,17,2070,Tender Mercies (1983),Tender Mercies,1983,Drama|Romance|Western,1803,3.948,3.9066
+Western,18,3508,"Outlaw Josey Wales, The (1976)","Outlaw Josey Wales, The",1976,Action|Adventure|Drama|Thriller|Western,4066,3.916,3.8981
+Western,19,3365,"Searchers, The (1956)","Searchers, The",1956,Drama|Western,2887,3.918,3.8931
+Western,20,4327,"Magnificent Seven, The (1960)","Magnificent Seven, The",1960,Adventure|Western,4723,3.898,3.8832
