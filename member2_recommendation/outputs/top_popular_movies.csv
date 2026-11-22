@@ -1,0 +1,51 @@
+movieId,title,clean_title,year,genres,rating_count,avg_rating,weighted_rating
+318,"Shawshank Redemption, The (1994)","Shawshank Redemption, The",1994,Crime|Drama,102929,4.405,4.4033
+159817,Planet Earth (2006),Planet Earth,2006,Documentary,2948,4.444,4.3855
+170705,Band of Brothers (2001),Band of Brothers,2001,Action|Drama|War,2811,4.427,4.367
+171011,Planet Earth II (2016),Planet Earth II,2016,Documentary,1956,4.447,4.3614
+858,"Godfather, The (1972)","Godfather, The",1972,Crime|Drama,66440,4.317,4.3146
+202439,Parasite (2019),Parasite,2019,Comedy|Drama,11670,4.312,4.2987
+50,"Usual Suspects, The (1995)","Usual Suspects, The",1995,Crime|Mystery|Thriller,67750,4.265,4.2628
+1221,"Godfather: Part II, The (1974)","Godfather: Part II, The",1974,Crime|Drama,43111,4.264,4.2606
+1203,12 Angry Men (1957),12 Angry Men,1957,Drama,21863,4.265,4.2583
+2019,Seven Samurai (Shichinin no samurai) (1954),Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,16531,4.25,4.2413
+527,Schindler's List (1993),Schindler's List,1993,Drama|War,73849,4.237,4.2351
+2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,77332,4.229,4.2272
+904,Rear Window (1954),Rear Window,1954,Mystery|Thriller,24883,4.227,4.2214
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,33333,4.213,4.2089
+1193,One Flew Over the Cuckoo's Nest (1975),One Flew Over the Cuckoo's Nest,1975,Drama,44592,4.204,4.201
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,32830,4.203,4.1989
+166024,Whiplash (2013),Whiplash,2013,Unknown,3080,4.24,4.1965
+296,Pulp Fiction (1994),Pulp Fiction,1994,Comedy|Crime|Drama|Thriller,98409,4.197,4.1956
+912,Casablanca (1942),Casablanca,1942,Drama|Romance,32190,4.195,4.1909
+44555,"Lives of Others, The (Das leben der Anderen) (2006)","Lives of Others, The (Das leben der Anderen)",2006,Drama|Romance|Thriller,12273,4.199,4.1882
+179135,Blue Planet II (2017),Blue Planet II,2017,Documentary,1163,4.3,4.1866
+1213,Goodfellas (1990),Goodfellas,1990,Crime|Drama,42003,4.188,4.1849
+198185,Twin Peaks (1989),Twin Peaks,1989,Drama|Mystery,1140,4.299,4.1839
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Sunset Blvd. (a.k.a. Sunset Boulevard),1950,Drama|Film-Noir|Romance,9072,4.196,4.1816
+908,North by Northwest (1959),North by Northwest,1959,Action|Adventure|Mystery|Romance|Thriller,20093,4.187,4.1805
+6016,City of God (Cidade de Deus) (2002),City of God (Cidade de Deus),2002,Action|Adventure|Crime|Drama|Thriller,25688,4.179,4.174
+195159,Spider-Man: Into the Spider-Verse (2018),Spider-Man: Into the Spider-Verse,2018,Action|Adventure|Animation|Sci-Fi,10434,4.185,4.1726
+163809,Over the Garden Wall (2013),Over the Garden Wall,2013,Adventure|Animation|Drama,1397,4.264,4.1718
+58559,"Dark Knight, The (2008)","Dark Knight, The",2008,Action|Crime|Drama|IMAX,59334,4.173,4.1708
+1212,"Third Man, The (1949)","Third Man, The",1949,Film-Noir|Mystery|Thriller,8823,4.185,4.1704
+3435,Double Indemnity (1944),Double Indemnity,1944,Crime|Drama|Film-Noir,6586,4.183,4.1637
+3000,Princess Mononoke (Mononoke-hime) (1997),Princess Mononoke (Mononoke-hime),1997,Action|Adventure|Animation|Drama|Fantasy,17730,4.164,4.1569
+1178,Paths of Glory (1957),Paths of Glory,1957,Drama|War,5490,4.179,4.1561
+79132,Inception (2010),Inception,2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,57931,4.157,4.1548
+2571,"Matrix, The (1999)","Matrix, The",1999,Action|Sci-Fi|Thriller,93808,4.156,4.1547
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),My Neighbor Totoro (Tonari no Totoro),1988,Animation|Children|Drama|Fantasy,13556,4.162,4.1528
+1252,Chinatown (1974),Chinatown,1974,Crime|Film-Noir|Mystery|Thriller,20730,4.155,4.149
+112552,Whiplash (2014),Whiplash,2014,Drama,19477,4.155,4.1486
+3030,Yojimbo (1961),Yojimbo,1961,Action|Adventure,5053,4.172,4.1475
+593,"Silence of the Lambs, The (1991)","Silence of the Lambs, The",1991,Crime|Horror|Thriller,90330,4.148,4.1466
+2324,Life Is Beautiful (La Vita è bella) (1997),Life Is Beautiful (La Vita è bella),1997,Comedy|Drama|Romance|War,29819,4.15,4.1459
+926,All About Eve (1950),All About Eve,1950,Drama,6068,4.161,4.1408
+4226,Memento (2000),Memento,2000,Mystery|Thriller,53658,4.142,4.1397
+913,"Maltese Falcon, The (1941)","Maltese Falcon, The",1941,Film-Noir|Mystery,14190,4.146,4.1374
+1234,"Sting, The (1973)","Sting, The",1973,Comedy|Crime,18416,4.143,4.1364
+1136,Monty Python and the Holy Grail (1975),Monty Python and the Holy Grail,1975,Adventure|Comedy|Fantasy,46508,4.136,4.1334
+142115,The Blue Planet (2001),The Blue Planet,2001,Documentary,1061,4.247,4.133
+1284,"Big Sleep, The (1946)","Big Sleep, The",1946,Crime|Film-Noir|Mystery,6665,4.151,4.1329
+1260,M (1931),M,1931,Crime|Film-Noir|Thriller,5728,4.151,4.13
+109487,Interstellar (2014),Interstellar,2014,Sci-Fi|IMAX,37157,4.133,4.1298

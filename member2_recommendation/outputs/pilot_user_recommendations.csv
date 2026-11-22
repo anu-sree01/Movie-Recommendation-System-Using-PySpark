@@ -1,0 +1,501 @@
+userId,rank,movieId,title,clean_title,year,genres,raw_prediction,predicted_rating,rating_count,avg_rating,weighted_rating
+2995,1,7214,Kiss Them for Me (1957),Kiss Them for Me,1957.0,Comedy|Romance|War,7.972,5.0,30,3.067,3.4797
+2995,2,1417,"Portrait of a Lady, The (1996)","Portrait of a Lady, The",1996.0,Drama,7.776,5.0,785,3.112,3.2004
+2995,3,5412,"Villain, The (1979)","Villain, The",1979.0,Comedy|Western,7.644,5.0,113,2.584,3.1995
+2995,4,797,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",1991.0,Comedy,7.588,5.0,115,3.343,3.4692
+2995,5,40467,"Gorgon, The (1964)","Gorgon, The",1964.0,Fantasy|Horror|Mystery,7.548,5.0,44,3.091,3.4607
+2995,6,6896,Shoah (1985),Shoah,1985.0,Documentary|War,7.525,5.0,352,4.07,3.8757
+2995,7,135456,Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005),Ghost in the Shell: Stand Alone Complex - The Laughing Man,2005.0,Action|Animation|Crime|Sci-Fi,7.492,5.0,369,4.075,3.8847
+2995,8,98,Shopping (1994),Shopping,1994.0,Action|Thriller,7.34,5.0,92,2.614,3.2525
+2995,9,152719,Las Poquianchis (1976),Las Poquianchis,1976.0,Crime|Drama,7.34,5.0,3,2.667,3.5277
+2995,10,60408,Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008),Welcome to the Sticks (Bienvenue chez les Ch'tis),2008.0,Comedy,7.294,5.0,560,3.642,3.6149
+4344,1,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.69,5.0,38,3.553,3.5424
+4344,2,54734,Sydney White (2007),Sydney White,2007.0,Comedy,7.32,5.0,519,3.303,3.37
+4344,3,225687,Making 'The Shining' (1980),Making 'The Shining',1980.0,Documentary,7.17,5.0,44,3.557,3.5433
+4344,4,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,7.048,5.0,111,3.842,3.6467
+4344,5,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.033,5.0,99,3.551,3.5439
+4344,6,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,6.985,5.0,3,4.667,3.5567
+4344,7,165239,Supersonic (2016),Supersonic,2016.0,Documentary,6.882,5.0,96,3.724,3.5991
+4344,8,86206,Dark City (1950),Dark City,1950.0,Crime|Drama|Film-Noir|Mystery,6.875,5.0,50,3.58,3.5482
+4344,9,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),My Sassy Girl (Yeopgijeogin geunyeo),2001.0,Comedy|Romance,6.819,5.0,617,3.732,3.6844
+4344,10,1795,"Callejón de los milagros, El (1995)","Callejón de los milagros, El",1995.0,Drama,6.759,5.0,61,3.09,3.4367
+7808,1,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,7.413,5.0,682,3.4,3.4323
+7808,2,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.181,5.0,38,3.553,3.5424
+7808,3,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.097,5.0,99,3.551,3.5439
+7808,4,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,7.087,5.0,284,3.125,3.2986
+7808,5,26587,"Decalogue, The (Dekalog) (1989)","Decalogue, The (Dekalog)",1989.0,Crime|Drama|Romance,6.996,5.0,654,4.169,4.0195
+7808,6,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,6.939,5.0,118,2.89,3.3021
+7808,7,125596,Parade (1974),Parade,1974.0,Children|Comedy,6.904,5.0,22,3.136,3.501
+7808,8,89896,"Turin Horse, The (A Torinói ló) (2011)","Turin Horse, The (A Torinói ló)",2011.0,Drama,6.901,5.0,261,3.807,3.69
+7808,9,73344,"Prophet, A (Un Prophète) (2009)","Prophet, A (Un Prophète)",2009.0,Crime|Drama,6.835,5.0,2074,3.92,3.886
+7808,10,5435,Hombre (1967),Hombre,1967.0,Western,6.797,5.0,294,3.646,3.6027
+7858,1,3622,"Twelve Chairs, The (1970)","Twelve Chairs, The",1970.0,Comedy,6.166,5.0,373,3.517,3.5253
+7858,2,171013,In This Corner of the World (2016),In This Corner of the World,2016.0,Animation|Drama,5.788,5.0,151,3.768,3.6372
+7858,3,102666,Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973),Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu),1973.0,Adventure|Comedy,5.506,5.0,736,4.052,3.941
+7858,4,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,5.171,5.0,111,3.842,3.6467
+7858,5,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,5.166,5.0,402,3.568,3.5587
+7858,6,3382,Song of Freedom (1936),Song of Freedom,1936.0,Drama,5.146,5.0,7,3.429,3.5367
+7858,7,7767,"Best of Youth, The (La meglio gioventù) (2003)","Best of Youth, The (La meglio gioventù)",2003.0,Drama,4.978,4.978,600,4.012,3.8923
+7858,8,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,4.955,4.955,682,3.4,3.4323
+7858,9,211207,What if it Works? (2017),What if it Works?,2017.0,Drama,4.846,4.846,3,3.5,3.5398
+7858,10,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,4.83,4.83,38,3.553,3.5424
+8375,1,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,6.979,5.0,111,3.842,3.6467
+8375,2,96,In the Bleak Midwinter (1995),In the Bleak Midwinter,1995.0,Comedy|Drama,6.412,5.0,487,3.679,3.6381
+8375,3,26422,Hair (1979),Hair,1979.0,Comedy|Drama|Musical,6.196,5.0,637,3.536,3.5371
+8375,4,203218,Good Boys (2019),Good Boys,2019.0,Comedy,5.915,5.0,571,3.49,3.5033
+8375,5,77665,Marmaduke (2010),Marmaduke,2010.0,Comedy,5.881,5.0,153,2.32,3.0174
+8375,6,204246,Sword of Trust (2019),Sword of Trust,2019.0,Comedy|Drama,5.859,5.0,56,3.277,3.4837
+8375,7,93988,North & South (2004),North & South,2004.0,Drama|Romance,5.82,5.0,463,4.014,3.8691
+8375,8,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,5.757,5.0,118,2.89,3.3021
+8375,9,89862,Bellflower (2011),Bellflower,2011.0,Action|Drama|Romance,5.719,5.0,112,2.978,3.3411
+8375,10,2441,"Hi-Lo Country, The (1998)","Hi-Lo Country, The",1998.0,Drama|Romance|Western,5.702,5.0,205,3.107,3.3232
+9350,1,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,10.652,5.0,38,3.553,3.5424
+9350,2,125279,The Student Prince (1954),The Student Prince,1954.0,Unknown,10.062,5.0,4,3.375,3.5372
+9350,3,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,9.837,5.0,3,4.667,3.5567
+9350,4,185927,Wild Wild Country (2018),Wild Wild Country,2018.0,Documentary,9.706,5.0,725,3.952,3.8616
+9350,5,3622,"Twelve Chairs, The (1970)","Twelve Chairs, The",1970.0,Comedy,9.357,5.0,373,3.517,3.5253
+9350,6,143389,Les Misérables in Concert - The 25th Anniversary (2010),Les Misérables in Concert - The 25th Anniversary,2010.0,Unknown,9.17,5.0,84,3.815,3.6205
+9350,7,171013,In This Corner of the World (2016),In This Corner of the World,2016.0,Animation|Drama,8.862,5.0,151,3.768,3.6372
+9350,8,27469,Millennium Mambo (2001),Millennium Mambo,2001.0,Drama|Romance,8.828,5.0,76,3.717,3.5883
+9350,9,2658,"Flying Saucer, The (1950)","Flying Saucer, The",1950.0,Sci-Fi,8.809,5.0,44,2.864,3.4204
+9350,10,96,In the Bleak Midwinter (1995),In the Bleak Midwinter,1995.0,Comedy|Drama,8.611,5.0,487,3.679,3.6381
+9523,1,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,5.562,5.0,751,3.932,3.8483
+9523,2,6202,Late Marriage (Hatuna Meuheret) (2001),Late Marriage (Hatuna Meuheret),2001.0,Comedy|Drama|Romance,5.405,5.0,152,3.493,3.5202
+9523,3,193003,David Blaine: Street Magic (1997),David Blaine: Street Magic,1997.0,Documentary,5.374,5.0,5,3.8,3.5466
+9523,4,61862,In Bed (En la cama) (2005),In Bed (En la cama),2005.0,Drama,5.207,5.0,40,2.913,3.4375
+9523,5,182723,Cosmos: A Spacetime Odissey,Cosmos: A Spacetime Odissey,,Unknown,5.19,5.0,594,4.251,4.0693
+9523,6,254722,Cry Macho (2021),Cry Macho,2021.0,Drama|Thriller|Western,5.1,5.0,103,2.718,3.2645
+9523,7,129425,"Throw Away Your Books, Rally in the Streets (1971)","Throw Away Your Books, Rally in the Streets",1971.0,Drama,4.869,4.869,28,3.661,3.555
+9523,8,172529,God of Gamblers (1989),God of Gamblers,1989.0,Action|Comedy|Drama,4.867,4.867,29,3.552,3.5418
+9523,9,93821,There's Something Wrong with Aunt Diane (2011),There's Something Wrong with Aunt Diane,2011.0,Documentary,4.86,4.86,50,3.66,3.5639
+9523,10,70649,A City of Sadness (1989),A City of Sadness,1989.0,Drama,4.808,4.808,62,3.798,3.6004
+9643,1,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,8.886,5.0,682,3.4,3.4323
+9643,2,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.265,5.0,54,3.685,3.5707
+9643,3,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.265,5.0,2,2.75,3.5327
+9643,4,166472,"Feyzo, the Polite One (1978)","Feyzo, the Polite One",1978.0,Comedy,8.252,5.0,19,3.921,3.5728
+9643,5,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,8.226,5.0,751,3.932,3.8483
+9643,6,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,8.194,5.0,118,2.89,3.3021
+9643,7,47446,"Moustache, La (2005)","Moustache, La",2005.0,Drama|Mystery|Thriller,8.189,5.0,197,3.459,3.5004
+9643,8,26587,"Decalogue, The (Dekalog) (1989)","Decalogue, The (Dekalog)",1989.0,Crime|Drama|Romance,8.155,5.0,654,4.169,4.0195
+9643,9,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,8.145,5.0,367,2.911,3.1359
+9643,10,79800,Life During Wartime (2009),Life During Wartime,2009.0,Comedy|Drama,7.948,5.0,128,3.195,3.4072
+11685,1,6202,Late Marriage (Hatuna Meuheret) (2001),Late Marriage (Hatuna Meuheret),2001.0,Comedy|Drama|Romance,9.544,5.0,152,3.493,3.5202
+11685,2,208429,The Banker (2019),The Banker,2019.0,Drama,9.035,5.0,197,3.718,3.6276
+11685,3,261271,The Harder They Fall (2021),The Harder They Fall,2021.0,Western,8.864,5.0,171,3.284,3.4235
+11685,4,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,8.812,5.0,751,3.932,3.8483
+11685,5,166472,"Feyzo, the Polite One (1978)","Feyzo, the Polite One",1978.0,Comedy,8.526,5.0,19,3.921,3.5728
+11685,6,128165,Scooby-Doo in Arabian Nights (1994),Scooby-Doo in Arabian Nights,1994.0,Animation|Children,8.35,5.0,33,3.212,3.4947
+11685,7,193003,David Blaine: Street Magic (1997),David Blaine: Street Magic,1997.0,Documentary,8.253,5.0,5,3.8,3.5466
+11685,8,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,8.204,5.0,91,3.731,3.5992
+11685,9,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.191,5.0,54,3.685,3.5707
+11685,10,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.191,5.0,2,2.75,3.5327
+15968,1,27456,Shackleton's Antarctic Adventure (2001),Shackleton's Antarctic Adventure,2001.0,Documentary|IMAX,6.343,5.0,107,3.593,3.5585
+15968,2,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,6.19,5.0,38,3.553,3.5424
+15968,3,340,"War, The (1994)","War, The",1994.0,Adventure|Drama|War,6.174,5.0,1499,3.374,3.3939
+15968,4,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,6.056,5.0,118,2.89,3.3021
+15968,5,71438,Still Walking (Aruitemo aruitemo) (2008),Still Walking (Aruitemo aruitemo),2008.0,Drama,5.987,5.0,287,3.869,3.7325
+15968,6,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,5.95,5.0,99,3.551,3.5439
+15968,7,27171,Freeway II: Confessions of a Trickbaby (1999),Freeway II: Confessions of a Trickbaby,1999.0,Comedy|Crime|Drama|Thriller,5.907,5.0,26,3.019,3.4815
+15968,8,183635,Maze Runner: The Death Cure (2018),Maze Runner: The Death Cure,2018.0,Action|Mystery|Sci-Fi|Thriller,5.905,5.0,1192,3.216,3.2634
+15968,9,191967,Reinventing Marvin (2017),Reinventing Marvin,2017.0,Drama,5.905,5.0,9,3.389,3.534
+15968,10,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,5.884,5.0,402,3.568,3.5587
+16349,1,1546,Schizopolis (1996),Schizopolis,1996.0,Comedy,8.055,5.0,495,3.582,3.5699
+16349,2,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,8.051,5.0,38,3.553,3.5424
+16349,3,125596,Parade (1974),Parade,1974.0,Children|Comedy,7.315,5.0,22,3.136,3.501
+16349,4,202934,Anna (2019),Anna,2019.0,Action|Thriller,7.126,5.0,428,3.285,3.3674
+16349,5,167032,Dancer (2016),Dancer,2016.0,Documentary,7.076,5.0,20,3.65,3.5502
+16349,6,162596,Queen of Katwe (2016),Queen of Katwe,2016.0,Drama,6.983,5.0,193,3.697,3.6165
+16349,7,7214,Kiss Them for Me (1957),Kiss Them for Me,1957.0,Comedy|Romance|War,6.971,5.0,30,3.067,3.4797
+16349,8,2839,West Beirut (West Beyrouth) (1998),West Beirut (West Beyrouth),1998.0,Drama,6.966,5.0,209,3.73,3.6363
+16349,9,141816,12 Chairs (1976),12 Chairs,1976.0,Adventure|Comedy,6.959,5.0,132,3.852,3.6628
+16349,10,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,6.928,5.0,99,3.551,3.5439
+17645,1,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,10.638,5.0,54,3.685,3.5707
+17645,2,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,10.638,5.0,2,2.75,3.5327
+17645,3,167032,Dancer (2016),Dancer,2016.0,Documentary,9.733,5.0,20,3.65,3.5502
+17645,4,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,9.637,5.0,682,3.4,3.4323
+17645,5,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,9.179,5.0,70,3.214,3.457
+17645,6,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,9.131,5.0,118,2.89,3.3021
+17645,7,2658,"Flying Saucer, The (1950)","Flying Saucer, The",1950.0,Sci-Fi,8.994,5.0,44,2.864,3.4204
+17645,8,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,8.869,5.0,751,3.932,3.8483
+17645,9,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,8.783,5.0,150,3.743,3.6262
+17645,10,166472,"Feyzo, the Polite One (1978)","Feyzo, the Polite One",1978.0,Comedy,8.674,5.0,19,3.921,3.5728
+18719,1,184165,Padmaavat (2018),Padmaavat,2018.0,Drama,6.175,5.0,85,3.394,3.4973
+18719,2,60408,Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008),Welcome to the Sticks (Bienvenue chez les Ch'tis),2008.0,Comedy,6.129,5.0,560,3.642,3.6149
+18719,3,7486,Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit) (1997),Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit),1997.0,Drama|Romance,5.979,5.0,658,3.897,3.8126
+18719,4,140862,Khottabych (2006),Khottabych,2006.0,Comedy|Fantasy,5.554,5.0,63,3.222,3.4653
+18719,5,147246,Adventures of Mowgli (1973),Adventures of Mowgli,1973.0,Animation|Children,5.512,5.0,78,3.558,3.5453
+18719,6,5435,Hombre (1967),Hombre,1967.0,Western,5.419,5.0,294,3.646,3.6027
+18719,7,174487,"Don't Hug Me, I'm Scared (2011)","Don't Hug Me, I'm Scared",2011.0,Animation|Fantasy|Horror,5.327,5.0,309,3.806,3.7004
+18719,8,7073,"Shot in the Dark, A (1964)","Shot in the Dark, A",1964.0,Comedy|Crime|Mystery,5.231,5.0,1334,3.822,3.7846
+18719,9,797,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",1991.0,Comedy,5.217,5.0,115,3.343,3.4692
+18719,10,156779,Jimmy Carr: In Concert (2008),Jimmy Carr: In Concert,2008.0,Comedy,5.055,5.0,31,3.468,3.5308
+19675,1,173939,On Body and Soul (2017),On Body and Soul,2017.0,Drama|Romance,5.845,5.0,304,3.839,3.7191
+19675,2,198119,Beyond White Space (2018),Beyond White Space,2018.0,Sci-Fi|Thriller,5.768,5.0,18,2.056,3.42
+19675,3,167032,Dancer (2016),Dancer,2016.0,Documentary,5.42,5.0,20,3.65,3.5502
+19675,4,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,5.416,5.0,54,3.685,3.5707
+19675,5,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,5.416,5.0,2,2.75,3.5327
+19675,6,5024,Come Undone (Presque Rien) (2000),Come Undone (Presque Rien),2000.0,Drama|Romance,5.284,5.0,87,3.368,3.4889
+19675,7,124029,House of Cards (1968),House of Cards,1968.0,Thriller,5.026,5.0,4,3.375,3.5372
+19675,8,5223,Pauline & Paulette (Pauline en Paulette) (2001),Pauline & Paulette (Pauline en Paulette),2001.0,Comedy|Drama,4.969,4.969,123,3.22,3.4199
+19675,9,109191,Winter's Tale (2014),Winter's Tale,2014.0,Drama|Fantasy|Mystery,4.944,4.944,300,3.017,3.2289
+19675,10,162004,Liar Game: The Final Stage (2010),Liar Game: The Final Stage,2010.0,Drama|Thriller,4.927,4.927,15,3.633,3.5467
+19775,1,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.828,5.0,54,3.685,3.5707
+19775,2,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.828,5.0,2,2.75,3.5327
+19775,3,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,8.653,5.0,118,2.89,3.3021
+19775,4,204246,Sword of Trust (2019),Sword of Trust,2019.0,Comedy|Drama,8.344,5.0,56,3.277,3.4837
+19775,5,167032,Dancer (2016),Dancer,2016.0,Documentary,8.108,5.0,20,3.65,3.5502
+19775,6,26422,Hair (1979),Hair,1979.0,Comedy|Drama|Musical,8.048,5.0,637,3.536,3.5371
+19775,7,47404,Mind Game (2004),Mind Game,2004.0,Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,7.899,5.0,416,3.834,3.7374
+19775,8,6805,Crying Freeman (1995),Crying Freeman,1995.0,Action|Crime|Thriller,7.896,5.0,177,3.178,3.372
+19775,9,5920,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L') (1982)","Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",1982.0,Adventure|Comedy,7.891,5.0,36,3.111,3.476
+19775,10,73754,"Queen and I, The (Drottningen och jag) (2008)","Queen and I, The (Drottningen och jag)",2008.0,Documentary,7.819,5.0,5,3.4,3.537
+20142,1,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,9.621,5.0,284,3.125,3.2986
+20142,2,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,9.143,5.0,193,3.811,3.6719
+20142,3,160718,Piper (2016),Piper,2016.0,Animation,9.01,5.0,1918,4.154,4.095
+20142,4,89896,"Turin Horse, The (A Torinói ló) (2011)","Turin Horse, The (A Torinói ló)",2011.0,Drama,8.921,5.0,261,3.807,3.69
+20142,5,185927,Wild Wild Country (2018),Wild Wild Country,2018.0,Documentary,8.903,5.0,725,3.952,3.8616
+20142,6,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,8.777,5.0,3,4.667,3.5567
+20142,7,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,8.521,5.0,682,3.4,3.4323
+20142,8,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,8.473,5.0,402,3.568,3.5587
+20142,9,2070,Tender Mercies (1983),Tender Mercies,1983.0,Drama|Romance|Western,8.347,5.0,1803,3.948,3.9066
+20142,10,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,8.209,5.0,367,2.911,3.1359
+20443,1,54967,"Hunting and Gathering (Ensemble, c'est tout) (2007)","Hunting and Gathering (Ensemble, c'est tout)",2007.0,Drama|Romance,7.727,5.0,94,3.537,3.5393
+20443,2,8500,Godzilla vs. Mechagodzilla (Gojira tai Mekagojira) (1974),Godzilla vs. Mechagodzilla (Gojira tai Mekagojira),1974.0,Action|Horror|Sci-Fi,7.604,5.0,67,3.045,3.4179
+20443,3,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,7.525,5.0,70,3.214,3.457
+20443,4,85259,Winnie the Pooh and the Honey Tree (1966),Winnie the Pooh and the Honey Tree,1966.0,Animation|Children,7.262,5.0,187,3.746,3.6387
+20443,5,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),My Sassy Girl (Yeopgijeogin geunyeo),2001.0,Comedy|Romance,7.13,5.0,617,3.732,3.6844
+20443,6,108544,"Simple Life of Noah Dearborn, The (1999)","Simple Life of Noah Dearborn, The",1999.0,Drama,7.023,5.0,6,3.833,3.5488
+20443,7,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,6.978,5.0,367,2.911,3.1359
+20443,8,6896,Shoah (1985),Shoah,1985.0,Documentary|War,6.941,5.0,352,4.07,3.8757
+20443,9,160718,Piper (2016),Piper,2016.0,Animation,6.932,5.0,1918,4.154,4.095
+20443,10,1443,"Tickle in the Heart, A (1996)","Tickle in the Heart, A",1996.0,Documentary,6.892,5.0,24,3.229,3.5076
+20912,1,26547,Police Story (Ging chaat goo si) (1985),Police Story (Ging chaat goo si),1985.0,Action|Comedy|Crime|Thriller,11.9,5.0,752,3.779,3.7281
+20912,2,2441,"Hi-Lo Country, The (1998)","Hi-Lo Country, The",1998.0,Drama|Romance|Western,11.017,5.0,205,3.107,3.3232
+20912,3,96,In the Bleak Midwinter (1995),In the Bleak Midwinter,1995.0,Comedy|Drama,10.938,5.0,487,3.679,3.6381
+20912,4,182723,Cosmos: A Spacetime Odissey,Cosmos: A Spacetime Odissey,,Unknown,10.904,5.0,594,4.251,4.0693
+20912,5,2839,West Beirut (West Beyrouth) (1998),West Beirut (West Beyrouth),1998.0,Drama,10.599,5.0,209,3.73,3.6363
+20912,6,182555,LEGO Jurassic World: Indominus Escape (2016),LEGO Jurassic World: Indominus Escape,2016.0,Animation|Children|Comedy,10.318,5.0,14,3.0,3.5057
+20912,7,48600,One Night with the King (2006),One Night with the King,2006.0,Drama,10.174,5.0,92,3.201,3.4349
+20912,8,77665,Marmaduke (2010),Marmaduke,2010.0,Comedy,10.164,5.0,153,2.32,3.0174
+20912,9,4337,"Sand Pebbles, The (1966)","Sand Pebbles, The",1966.0,Drama|Romance|War,10.121,5.0,501,3.699,3.6531
+20912,10,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,10.109,5.0,111,3.842,3.6467
+22244,1,60408,Welcome to the Sticks (Bienvenue chez les Ch'tis) (2008),Welcome to the Sticks (Bienvenue chez les Ch'tis),2008.0,Comedy,8.904,5.0,560,3.642,3.6149
+22244,2,7214,Kiss Them for Me (1957),Kiss Them for Me,1957.0,Comedy|Romance|War,8.452,5.0,30,3.067,3.4797
+22244,3,184165,Padmaavat (2018),Padmaavat,2018.0,Drama,8.291,5.0,85,3.394,3.4973
+22244,4,797,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",1991.0,Comedy,8.284,5.0,115,3.343,3.4692
+22244,5,7486,Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit) (1997),Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit),1997.0,Drama|Romance,8.199,5.0,658,3.897,3.8126
+22244,6,26163,Don't Look Back (1967),Don't Look Back,1967.0,Documentary|Musical,7.873,5.0,365,3.84,3.7326
+22244,7,147246,Adventures of Mowgli (1973),Adventures of Mowgli,1973.0,Animation|Children,7.872,5.0,78,3.558,3.5453
+22244,8,3223,"Zed & Two Noughts, A (1985)","Zed & Two Noughts, A",1985.0,Drama,7.733,5.0,402,3.624,3.5959
+22244,9,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.705,5.0,38,3.553,3.5424
+22244,10,26094,"Eclisse, L' (Eclipse) (1962)","Eclisse, L' (Eclipse)",1962.0,Drama,7.699,5.0,467,3.963,3.8345
+24660,1,649,Cold Fever (Á köldum klaka) (1995),Cold Fever (Á köldum klaka),1995.0,Comedy|Drama,8.958,5.0,138,3.736,3.6193
+24660,2,254722,Cry Macho (2021),Cry Macho,2021.0,Drama|Thriller|Western,8.924,5.0,103,2.718,3.2645
+24660,3,1443,"Tickle in the Heart, A (1996)","Tickle in the Heart, A",1996.0,Documentary,8.84,5.0,24,3.229,3.5076
+24660,4,182555,LEGO Jurassic World: Indominus Escape (2016),LEGO Jurassic World: Indominus Escape,2016.0,Animation|Children|Comedy,8.821,5.0,14,3.0,3.5057
+24660,5,2441,"Hi-Lo Country, The (1998)","Hi-Lo Country, The",1998.0,Drama|Romance|Western,8.809,5.0,205,3.107,3.3232
+24660,6,119182,Sorority Wars (2009),Sorority Wars,2009.0,Comedy|Drama,8.451,5.0,30,3.55,3.5416
+24660,7,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,8.433,5.0,78,3.532,3.5381
+24660,8,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,8.329,5.0,3,4.667,3.5567
+24660,9,3094,Maurice (1987),Maurice,1987.0,Drama|Romance,8.315,5.0,820,3.785,3.7363
+24660,10,1160,Six of a Kind (1934),Six of a Kind,1934.0,Comedy,8.298,5.0,45,3.156,3.4709
+25391,1,96,In the Bleak Midwinter (1995),In the Bleak Midwinter,1995.0,Comedy|Drama,10.671,5.0,487,3.679,3.6381
+25391,2,77665,Marmaduke (2010),Marmaduke,2010.0,Comedy,10.458,5.0,153,2.32,3.0174
+25391,3,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,9.921,5.0,111,3.842,3.6467
+25391,4,203218,Good Boys (2019),Good Boys,2019.0,Comedy,9.646,5.0,571,3.49,3.5033
+25391,5,148659,Ennum Eppozhum (2015),Ennum Eppozhum,2015.0,Children|Drama,9.115,5.0,3,3.667,3.5422
+25391,6,2839,West Beirut (West Beyrouth) (1998),West Beirut (West Beyrouth),1998.0,Drama,9.115,5.0,209,3.73,3.6363
+25391,7,26547,Police Story (Ging chaat goo si) (1985),Police Story (Ging chaat goo si),1985.0,Action|Comedy|Crime|Thriller,9.104,5.0,752,3.779,3.7281
+25391,8,48600,One Night with the King (2006),One Night with the King,2006.0,Drama,9.062,5.0,92,3.201,3.4349
+25391,9,215685,Bad Trip (2020),Bad Trip,2020.0,Comedy,8.979,5.0,221,3.36,3.4466
+25391,10,3622,"Twelve Chairs, The (1970)","Twelve Chairs, The",1970.0,Comedy,8.966,5.0,373,3.517,3.5253
+25622,1,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,5.026,5.0,118,2.89,3.3021
+25622,2,204246,Sword of Trust (2019),Sword of Trust,2019.0,Comedy|Drama,4.926,4.926,56,3.277,3.4837
+25622,3,5920,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L') (1982)","Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",1982.0,Adventure|Comedy,4.465,4.465,36,3.111,3.476
+25622,4,26422,Hair (1979),Hair,1979.0,Comedy|Drama|Musical,4.38,4.38,637,3.536,3.5371
+25622,5,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,4.302,4.302,70,3.214,3.457
+25622,6,6805,Crying Freeman (1995),Crying Freeman,1995.0,Action|Crime|Thriller,4.252,4.252,177,3.178,3.372
+25622,7,4696,"Zorro, the Gay Blade (1981)","Zorro, the Gay Blade",1981.0,Comedy,4.243,4.243,430,2.923,3.1217
+25622,8,62245,"Music Room, The (Jalsaghar) (1958)","Music Room, The (Jalsaghar)",1958.0,Drama,4.221,4.221,89,3.663,3.5776
+25622,9,54734,Sydney White (2007),Sydney White,2007.0,Comedy,4.194,4.194,519,3.303,3.37
+25622,10,6202,Late Marriage (Hatuna Meuheret) (2001),Late Marriage (Hatuna Meuheret),2001.0,Comedy|Drama|Romance,4.186,4.186,152,3.493,3.5202
+27040,1,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,5.682,5.0,193,3.811,3.6719
+27040,2,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,5.584,5.0,402,3.568,3.5587
+27040,3,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,5.162,5.0,91,3.731,3.5992
+27040,4,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,5.144,5.0,111,3.842,3.6467
+27040,5,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,4.979,4.979,78,3.532,3.5381
+27040,6,185927,Wild Wild Country (2018),Wild Wild Country,2018.0,Documentary,4.957,4.957,725,3.952,3.8616
+27040,7,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,4.924,4.924,284,3.125,3.2986
+27040,8,160718,Piper (2016),Piper,2016.0,Animation,4.787,4.787,1918,4.154,4.095
+27040,9,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,4.654,4.654,70,3.214,3.457
+27040,10,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,4.652,4.652,3,4.667,3.5567
+27297,1,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,7.637,5.0,284,3.125,3.2986
+27297,2,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,7.313,5.0,367,2.911,3.1359
+27297,3,8882,"Boston Strangler, The (1968)","Boston Strangler, The",1968.0,Crime|Drama|Mystery|Thriller,7.156,5.0,150,3.307,3.4415
+27297,4,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.043,5.0,38,3.553,3.5424
+27297,5,160718,Piper (2016),Piper,2016.0,Animation,6.959,5.0,1918,4.154,4.095
+27297,6,85259,Winnie the Pooh and the Honey Tree (1966),Winnie the Pooh and the Honey Tree,1966.0,Animation|Children,6.941,5.0,187,3.746,3.6387
+27297,7,182555,LEGO Jurassic World: Indominus Escape (2016),LEGO Jurassic World: Indominus Escape,2016.0,Animation|Children|Comedy,6.937,5.0,14,3.0,3.5057
+27297,8,892,Twelfth Night (1996),Twelfth Night,1996.0,Comedy|Drama|Romance,6.88,5.0,1406,3.722,3.699
+27297,9,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,6.664,5.0,70,3.214,3.457
+27297,10,183437,World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017),World of Tomorrow Episode Two: The Burden of Other People's Thoughts,2017.0,Animation|Sci-Fi,6.649,5.0,167,4.027,3.7594
+28527,1,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,9.483,5.0,54,3.685,3.5707
+28527,2,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,9.483,5.0,2,2.75,3.5327
+28527,3,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,9.352,5.0,118,2.89,3.3021
+28527,4,26587,"Decalogue, The (Dekalog) (1989)","Decalogue, The (Dekalog)",1989.0,Crime|Drama|Romance,9.224,5.0,654,4.169,4.0195
+28527,5,167032,Dancer (2016),Dancer,2016.0,Documentary,9.198,5.0,20,3.65,3.5502
+28527,6,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,9.168,5.0,682,3.4,3.4323
+28527,7,27171,Freeway II: Confessions of a Trickbaby (1999),Freeway II: Confessions of a Trickbaby,1999.0,Comedy|Crime|Drama|Thriller,8.982,5.0,26,3.019,3.4815
+28527,8,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,8.942,5.0,99,3.551,3.5439
+28527,9,2658,"Flying Saucer, The (1950)","Flying Saucer, The",1950.0,Sci-Fi,8.845,5.0,44,2.864,3.4204
+28527,10,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,8.605,5.0,751,3.932,3.8483
+29511,1,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,8.329,5.0,91,3.731,3.5992
+29511,2,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,8.091,5.0,78,3.532,3.5381
+29511,3,202325,The Whistlers (2019),The Whistlers,2019.0,Comedy|Drama|Thriller,7.858,5.0,38,2.987,3.4535
+29511,4,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,7.281,5.0,193,3.811,3.6719
+29511,5,190177,Insect (2018),Insect,2018.0,Animation|Comedy,7.174,5.0,9,2.556,3.4988
+29511,6,6202,Late Marriage (Hatuna Meuheret) (2001),Late Marriage (Hatuna Meuheret),2001.0,Comedy|Drama|Romance,6.963,5.0,152,3.493,3.5202
+29511,7,1160,Six of a Kind (1934),Six of a Kind,1934.0,Comedy,6.959,5.0,45,3.156,3.4709
+29511,8,70649,A City of Sadness (1989),A City of Sadness,1989.0,Drama,6.883,5.0,62,3.798,3.6004
+29511,9,128165,Scooby-Doo in Arabian Nights (1994),Scooby-Doo in Arabian Nights,1994.0,Animation|Children,6.842,5.0,33,3.212,3.4947
+29511,10,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,6.836,5.0,402,3.568,3.5587
+30340,1,99387,Transfer (2010),Transfer,2010.0,Drama|Sci-Fi,10.665,5.0,25,3.46,3.5316
+30340,2,6896,Shoah (1985),Shoah,1985.0,Documentary|War,10.28,5.0,352,4.07,3.8757
+30340,3,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,9.91,5.0,150,3.743,3.6262
+30340,4,2658,"Flying Saucer, The (1950)","Flying Saucer, The",1950.0,Sci-Fi,9.423,5.0,44,2.864,3.4204
+30340,5,141395,Nina Forever (2015),Nina Forever,2015.0,Comedy|Horror|Romance,9.152,5.0,59,2.551,3.3184
+30340,6,54734,Sydney White (2007),Sydney White,2007.0,Comedy,8.867,5.0,519,3.303,3.37
+30340,7,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,8.825,5.0,682,3.4,3.4323
+30340,8,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.795,5.0,54,3.685,3.5707
+30340,9,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.795,5.0,2,2.75,3.5327
+30340,10,121481,Grave Halloween (2013),Grave Halloween,2013.0,Horror,8.749,5.0,9,2.167,3.4824
+34783,1,160718,Piper (2016),Piper,2016.0,Animation,4.429,4.429,1918,4.154,4.095
+34783,2,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,4.371,4.371,70,3.214,3.457
+34783,3,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,4.295,4.295,284,3.125,3.2986
+34783,4,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,4.25,4.25,751,3.932,3.8483
+34783,5,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,4.167,4.167,682,3.4,3.4323
+34783,6,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,4.133,4.133,150,3.743,3.6262
+34783,7,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,4.089,4.089,193,3.811,3.6719
+34783,8,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,4.085,4.085,91,3.731,3.5992
+34783,9,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,4.078,4.078,402,3.568,3.5587
+34783,10,185927,Wild Wild Country (2018),Wild Wild Country,2018.0,Documentary,4.011,4.011,725,3.952,3.8616
+38586,1,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,9.893,5.0,111,3.842,3.6467
+38586,2,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,9.827,5.0,193,3.811,3.6719
+38586,3,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,9.478,5.0,402,3.568,3.5587
+38586,4,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,9.325,5.0,284,3.125,3.2986
+38586,5,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,8.761,5.0,78,3.532,3.5381
+38586,6,172529,God of Gamblers (1989),God of Gamblers,1989.0,Action|Comedy|Drama,8.729,5.0,29,3.552,3.5418
+38586,7,160718,Piper (2016),Piper,2016.0,Animation,8.697,5.0,1918,4.154,4.095
+38586,8,185927,Wild Wild Country (2018),Wild Wild Country,2018.0,Documentary,8.675,5.0,725,3.952,3.8616
+38586,9,71438,Still Walking (Aruitemo aruitemo) (2008),Still Walking (Aruitemo aruitemo),2008.0,Drama,8.553,5.0,287,3.869,3.7325
+38586,10,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,8.46,5.0,682,3.4,3.4323
+40356,1,160718,Piper (2016),Piper,2016.0,Animation,7.631,5.0,1918,4.154,4.095
+40356,2,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,7.52,5.0,751,3.932,3.8483
+40356,3,3115,Flawless (1999),Flawless,1999.0,Drama,7.157,5.0,709,3.211,3.2846
+40356,4,1537,Shall We Dance? (Shall We Dansu?) (1996),Shall We Dance? (Shall We Dansu?),1996.0,Comedy|Drama|Romance,7.129,5.0,3981,3.94,3.9205
+40356,5,2658,"Flying Saucer, The (1950)","Flying Saucer, The",1950.0,Sci-Fi,7.013,5.0,44,2.864,3.4204
+40356,6,5412,"Villain, The (1979)","Villain, The",1979.0,Comedy|Western,6.96,5.0,113,2.584,3.1995
+40356,7,7214,Kiss Them for Me (1957),Kiss Them for Me,1957.0,Comedy|Romance|War,6.872,5.0,30,3.067,3.4797
+40356,8,167832,The Invisible Guest (2016),The Invisible Guest,2016.0,Thriller,6.864,5.0,1343,4.028,3.9637
+40356,9,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,6.843,5.0,150,3.743,3.6262
+40356,10,172529,God of Gamblers (1989),God of Gamblers,1989.0,Action|Comedy|Drama,6.841,5.0,29,3.552,3.5418
+40603,1,27646,Soldier's Girl (2003),Soldier's Girl,2003.0,Drama,5.95,5.0,59,3.729,3.5827
+40603,2,140862,Khottabych (2006),Khottabych,2006.0,Comedy|Fantasy,5.513,5.0,63,3.222,3.4653
+40603,3,907,"Gay Divorcee, The (1934)","Gay Divorcee, The",1934.0,Comedy|Musical|Romance,5.32,5.0,950,3.918,3.8512
+40603,4,103017,The Body (2012),The Body,2012.0,Mystery|Thriller,5.131,5.0,442,3.776,3.7016
+40603,5,2624,After Life (Wandafuru raifu) (1998),After Life (Wandafuru raifu),1998.0,Drama|Fantasy,5.1,5.0,900,3.945,3.8702
+40603,6,168408,Boo! A Madea Halloween (2016),Boo! A Madea Halloween,2016.0,Comedy|Horror,4.971,4.971,71,2.225,3.2008
+40603,7,1546,Schizopolis (1996),Schizopolis,1996.0,Comedy,4.814,4.814,495,3.582,3.5699
+40603,8,95218,First Position (2011),First Position,2011.0,Documentary,4.761,4.761,96,3.839,3.6359
+40603,9,27456,Shackleton's Antarctic Adventure (2001),Shackleton's Antarctic Adventure,2001.0,Documentary|IMAX,4.716,4.716,107,3.593,3.5585
+40603,10,5435,Hombre (1967),Hombre,1967.0,Western,4.697,4.697,294,3.646,3.6027
+41600,1,6805,Crying Freeman (1995),Crying Freeman,1995.0,Action|Crime|Thriller,10.268,5.0,177,3.178,3.372
+41600,2,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,10.083,5.0,70,3.214,3.457
+41600,3,166369,Sour Grapes (2016),Sour Grapes,2016.0,Documentary,9.668,5.0,100,3.92,3.6653
+41600,4,141520,Moss (2010),Moss,2010.0,Crime|Drama|Mystery|Thriller,9.601,5.0,36,3.458,3.528
+41600,5,182555,LEGO Jurassic World: Indominus Escape (2016),LEGO Jurassic World: Indominus Escape,2016.0,Animation|Children|Comedy,9.215,5.0,14,3.0,3.5057
+41600,6,109189,Endless Love (2014),Endless Love,2014.0,Drama|Romance,9.023,5.0,207,3.563,3.5518
+41600,7,174485,Salad Fingers,Salad Fingers,,Unknown,8.981,5.0,64,3.219,3.4636
+41600,8,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,8.94,5.0,402,3.568,3.5587
+41600,9,62245,"Music Room, The (Jalsaghar) (1958)","Music Room, The (Jalsaghar)",1958.0,Drama,8.915,5.0,89,3.663,3.5776
+41600,10,167152,A martfüi rém (2016),A martfüi rém,2016.0,Thriller,8.819,5.0,26,2.769,3.4532
+45063,1,27646,Soldier's Girl (2003),Soldier's Girl,2003.0,Drama,11.026,5.0,59,3.729,3.5827
+45063,2,140862,Khottabych (2006),Khottabych,2006.0,Comedy|Fantasy,10.049,5.0,63,3.222,3.4653
+45063,3,27456,Shackleton's Antarctic Adventure (2001),Shackleton's Antarctic Adventure,2001.0,Documentary|IMAX,10.023,5.0,107,3.593,3.5585
+45063,4,907,"Gay Divorcee, The (1934)","Gay Divorcee, The",1934.0,Comedy|Musical|Romance,9.893,5.0,950,3.918,3.8512
+45063,5,156779,Jimmy Carr: In Concert (2008),Jimmy Carr: In Concert,2008.0,Comedy,9.828,5.0,31,3.468,3.5308
+45063,6,168014,Christmas Belle (2013),Christmas Belle,2013.0,Drama|Romance,9.66,5.0,5,3.0,3.5275
+45063,7,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,9.624,5.0,682,3.4,3.4323
+45063,8,103017,The Body (2012),The Body,2012.0,Mystery|Thriller,9.545,5.0,442,3.776,3.7016
+45063,9,197529,The Upside (2019),The Upside,2019.0,Comedy|Drama,9.497,5.0,458,3.583,3.5699
+45063,10,275167,Decision to Leave (2022),Decision to Leave,2022.0,Crime|Drama|Mystery|Romance,9.372,5.0,335,3.643,3.6042
+46094,1,27456,Shackleton's Antarctic Adventure (2001),Shackleton's Antarctic Adventure,2001.0,Documentary|IMAX,7.258,5.0,107,3.593,3.5585
+46094,2,340,"War, The (1994)","War, The",1994.0,Adventure|Drama|War,6.192,5.0,1499,3.374,3.3939
+46094,3,71438,Still Walking (Aruitemo aruitemo) (2008),Still Walking (Aruitemo aruitemo),2008.0,Drama,6.09,5.0,287,3.869,3.7325
+46094,4,95218,First Position (2011),First Position,2011.0,Documentary,6.01,5.0,96,3.839,3.6359
+46094,5,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,5.981,5.0,118,2.89,3.3021
+46094,6,140862,Khottabych (2006),Khottabych,2006.0,Comedy|Fantasy,5.893,5.0,63,3.222,3.4653
+46094,7,5794,Good Work (Beau travail) (1999),Good Work (Beau travail),1999.0,Drama,5.886,5.0,279,3.715,3.6413
+46094,8,55620,For the Bible Tells Me So (2007),For the Bible Tells Me So,2007.0,Documentary,5.827,5.0,170,3.671,3.5998
+46094,9,156779,Jimmy Carr: In Concert (2008),Jimmy Carr: In Concert,2008.0,Comedy,5.745,5.0,31,3.468,3.5308
+46094,10,197529,The Upside (2019),The Upside,2019.0,Comedy|Drama,5.699,5.0,458,3.583,3.5699
+46790,1,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,6.995,5.0,70,3.214,3.457
+46790,2,6202,Late Marriage (Hatuna Meuheret) (2001),Late Marriage (Hatuna Meuheret),2001.0,Comedy|Drama|Romance,6.93,5.0,152,3.493,3.5202
+46790,3,129425,"Throw Away Your Books, Rally in the Streets (1971)","Throw Away Your Books, Rally in the Streets",1971.0,Drama,6.873,5.0,28,3.661,3.555
+46790,4,6805,Crying Freeman (1995),Crying Freeman,1995.0,Action|Crime|Thriller,6.73,5.0,177,3.178,3.372
+46790,5,78264,"Back-up Plan, The (2010)","Back-up Plan, The",2010.0,Comedy|Romance,6.546,5.0,515,2.871,3.0609
+46790,6,4696,"Zorro, the Gay Blade (1981)","Zorro, the Gay Blade",1981.0,Comedy,6.437,5.0,430,2.923,3.1217
+46790,7,205425,Dave Chappelle: Sticks & Stones (2019),Dave Chappelle: Sticks & Stones,2019.0,Comedy,6.383,5.0,438,3.8,3.7175
+46790,8,25922,Deception (1946),Deception,1946.0,Drama|Film-Noir|Thriller,6.198,5.0,26,3.269,3.5097
+46790,9,3097,"Shop Around the Corner, The (1940)","Shop Around the Corner, The",1940.0,Comedy|Drama|Romance,6.162,5.0,2052,3.984,3.9439
+46790,10,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,6.095,5.0,54,3.685,3.5707
+47771,1,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,8.275,5.0,118,2.89,3.3021
+47771,2,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.095,5.0,54,3.685,3.5707
+47771,3,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.095,5.0,2,2.75,3.5327
+47771,4,164147,Behind the Planet of the Apes (1998),Behind the Planet of the Apes,1998.0,Documentary|Sci-Fi,7.464,5.0,70,3.214,3.457
+47771,5,204246,Sword of Trust (2019),Sword of Trust,2019.0,Comedy|Drama,7.275,5.0,56,3.277,3.4837
+47771,6,49359,Celine and Julie Go Boating (Celine et Julie vont en bateau) (1974),Celine and Julie Go Boating (Celine et Julie vont en bateau),1974.0,Drama|Fantasy|Mystery,7.266,5.0,111,3.842,3.6467
+47771,7,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,7.263,5.0,682,3.4,3.4323
+47771,8,27171,Freeway II: Confessions of a Trickbaby (1999),Freeway II: Confessions of a Trickbaby,1999.0,Comedy|Crime|Drama|Thriller,7.246,5.0,26,3.019,3.4815
+47771,9,26422,Hair (1979),Hair,1979.0,Comedy|Drama|Musical,7.175,5.0,637,3.536,3.5371
+47771,10,5920,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L') (1982)","Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",1982.0,Adventure|Comedy,7.072,5.0,36,3.111,3.476
+49076,1,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,7.348,5.0,150,3.743,3.6262
+49076,2,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.248,5.0,38,3.553,3.5424
+49076,3,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.002,5.0,99,3.551,3.5439
+49076,4,109189,Endless Love (2014),Endless Love,2014.0,Drama|Romance,6.876,5.0,207,3.563,3.5518
+49076,5,125596,Parade (1974),Parade,1974.0,Children|Comedy,6.83,5.0,22,3.136,3.501
+49076,6,163056,Shin Godzilla (2016),Shin Godzilla,2016.0,Action|Adventure|Fantasy|Sci-Fi,6.744,5.0,402,3.568,3.5587
+49076,7,42732,Last Holiday (2006),Last Holiday,2006.0,Comedy,6.714,5.0,682,3.4,3.4323
+49076,8,27171,Freeway II: Confessions of a Trickbaby (1999),Freeway II: Confessions of a Trickbaby,1999.0,Comedy|Crime|Drama|Thriller,6.653,5.0,26,3.019,3.4815
+49076,9,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,6.576,5.0,193,3.811,3.6719
+49076,10,2070,Tender Mercies (1983),Tender Mercies,1983.0,Drama|Romance|Western,6.574,5.0,1803,3.948,3.9066
+49261,1,2839,West Beirut (West Beyrouth) (1998),West Beirut (West Beyrouth),1998.0,Drama,8.981,5.0,209,3.73,3.6363
+49261,2,215685,Bad Trip (2020),Bad Trip,2020.0,Comedy,8.735,5.0,221,3.36,3.4466
+49261,3,26547,Police Story (Ging chaat goo si) (1985),Police Story (Ging chaat goo si),1985.0,Action|Comedy|Crime|Thriller,8.539,5.0,752,3.779,3.7281
+49261,4,3622,"Twelve Chairs, The (1970)","Twelve Chairs, The",1970.0,Comedy,8.455,5.0,373,3.517,3.5253
+49261,5,77665,Marmaduke (2010),Marmaduke,2010.0,Comedy,8.378,5.0,153,2.32,3.0174
+49261,6,96,In the Bleak Midwinter (1995),In the Bleak Midwinter,1995.0,Comedy|Drama,8.203,5.0,487,3.679,3.6381
+49261,7,106889,Tim's Vermeer (2013),Tim's Vermeer,2013.0,Documentary,8.039,5.0,358,3.968,3.8128
+49261,8,257589,Compartment No. 6 (2021),Compartment No. 6,2021.0,Drama,7.913,5.0,86,3.634,3.5682
+49261,9,173205,The Meyerowitz Stories (2017),The Meyerowitz Stories,2017.0,Comedy,7.749,5.0,549,3.452,3.4759
+49261,10,7767,"Best of Youth, The (La meglio gioventù) (2003)","Best of Youth, The (La meglio gioventù)",2003.0,Drama,7.71,5.0,600,4.012,3.8923
+49583,1,140862,Khottabych (2006),Khottabych,2006.0,Comedy|Fantasy,7.25,5.0,63,3.222,3.4653
+49583,2,103017,The Body (2012),The Body,2012.0,Mystery|Thriller,7.127,5.0,442,3.776,3.7016
+49583,3,27646,Soldier's Girl (2003),Soldier's Girl,2003.0,Drama,6.89,5.0,59,3.729,3.5827
+49583,4,95218,First Position (2011),First Position,2011.0,Documentary,6.884,5.0,96,3.839,3.6359
+49583,5,142452,Puella Magi Madoka Magica the Movie Part II: Eternal (2012),Puella Magi Madoka Magica the Movie Part II: Eternal,2012.0,Action|Animation|Horror|Mystery,6.753,5.0,116,3.793,3.632
+49583,6,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,6.633,5.0,118,2.89,3.3021
+49583,7,27456,Shackleton's Antarctic Adventure (2001),Shackleton's Antarctic Adventure,2001.0,Documentary|IMAX,6.48,5.0,107,3.593,3.5585
+49583,8,168014,Christmas Belle (2013),Christmas Belle,2013.0,Drama|Romance,6.45,5.0,5,3.0,3.5275
+49583,9,26707,Tatie Danielle (1990),Tatie Danielle,1990.0,Comedy|Drama,6.411,5.0,26,3.481,3.5337
+49583,10,907,"Gay Divorcee, The (1934)","Gay Divorcee, The",1934.0,Comedy|Musical|Romance,6.365,5.0,950,3.918,3.8512
+50888,1,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,7.977,5.0,54,3.685,3.5707
+50888,2,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,7.977,5.0,2,2.75,3.5327
+50888,3,167032,Dancer (2016),Dancer,2016.0,Documentary,7.956,5.0,20,3.65,3.5502
+50888,4,1546,Schizopolis (1996),Schizopolis,1996.0,Comedy,7.142,5.0,495,3.582,3.5699
+50888,5,166472,"Feyzo, the Polite One (1978)","Feyzo, the Polite One",1978.0,Comedy,6.884,5.0,19,3.921,3.5728
+50888,6,7043,Vivre sa vie: Film en douze tableaux (My Life to Live) (1962),Vivre sa vie: Film en douze tableaux (My Life to Live),1962.0,Drama,6.88,5.0,751,3.932,3.8483
+50888,7,208429,The Banker (2019),The Banker,2019.0,Drama,6.779,5.0,197,3.718,3.6276
+50888,8,27741,"Twilight Samurai, The (Tasogare Seibei) (2002)","Twilight Samurai, The (Tasogare Seibei)",2002.0,Drama|Romance,6.608,5.0,895,3.931,3.8585
+50888,9,46850,Wordplay (2006),Wordplay,2006.0,Documentary,6.588,5.0,720,3.821,3.759
+50888,10,148667,John Mulaney: The Comeback Kid (2015),John Mulaney: The Comeback Kid,2015.0,Comedy,6.528,5.0,679,4.034,3.92
+52076,1,167032,Dancer (2016),Dancer,2016.0,Documentary,9.096,5.0,20,3.65,3.5502
+52076,2,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,8.635,5.0,38,3.553,3.5424
+52076,3,134621,A Flying Ship (1979),A Flying Ship,1979.0,Animation|Children,8.358,5.0,54,3.685,3.5707
+52076,4,190013,Women Kingdom (1967),Women Kingdom,1967.0,Drama,8.358,5.0,2,2.75,3.5327
+52076,5,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.998,5.0,99,3.551,3.5439
+52076,6,6195,Stone Reader (2002),Stone Reader,2002.0,Documentary,7.778,5.0,150,3.743,3.6262
+52076,7,108,Catwalk (1996),Catwalk,1996.0,Documentary,7.645,5.0,123,3.089,3.3706
+52076,8,54734,Sydney White (2007),Sydney White,2007.0,Comedy,7.634,5.0,519,3.303,3.37
+52076,9,165239,Supersonic (2016),Supersonic,2016.0,Documentary,7.429,5.0,96,3.724,3.5991
+52076,10,162596,Queen of Katwe (2016),Queen of Katwe,2016.0,Drama,7.265,5.0,193,3.697,3.6165
+52603,1,7214,Kiss Them for Me (1957),Kiss Them for Me,1957.0,Comedy|Romance|War,7.343,5.0,30,3.067,3.4797
+52603,2,172529,God of Gamblers (1989),God of Gamblers,1989.0,Action|Comedy|Drama,7.334,5.0,29,3.552,3.5418
+52603,3,5412,"Villain, The (1979)","Villain, The",1979.0,Comedy|Western,7.189,5.0,113,2.584,3.1995
+52603,4,61986,Appaloosa (2008),Appaloosa,2008.0,Western,7.083,5.0,634,3.377,3.4168
+52603,5,93821,There's Something Wrong with Aunt Diane (2011),There's Something Wrong with Aunt Diane,2011.0,Documentary,6.741,5.0,50,3.66,3.5639
+52603,6,208429,The Banker (2019),The Banker,2019.0,Drama,6.622,5.0,197,3.718,3.6276
+52603,7,1417,"Portrait of a Lady, The (1996)","Portrait of a Lady, The",1996.0,Drama,6.548,5.0,785,3.112,3.2004
+52603,8,98,Shopping (1994),Shopping,1994.0,Action|Thriller,6.524,5.0,92,2.614,3.2525
+52603,9,152719,Las Poquianchis (1976),Las Poquianchis,1976.0,Crime|Drama,6.524,5.0,3,2.667,3.5277
+52603,10,190177,Insect (2018),Insect,2018.0,Animation|Comedy,6.467,5.0,9,2.556,3.4988
+54785,1,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.684,5.0,38,3.553,3.5424
+54785,2,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.167,5.0,99,3.551,3.5439
+54785,3,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,6.6,5.0,118,2.89,3.3021
+54785,4,54734,Sydney White (2007),Sydney White,2007.0,Comedy,6.598,5.0,519,3.303,3.37
+54785,5,89896,"Turin Horse, The (A Torinói ló) (2011)","Turin Horse, The (A Torinói ló)",2011.0,Drama,6.544,5.0,261,3.807,3.69
+54785,6,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,6.527,5.0,367,2.911,3.1359
+54785,7,193527,The Enclosed Valley (1995),The Enclosed Valley,1995.0,Unknown,6.5,5.0,3,4.667,3.5567
+54785,8,162596,Queen of Katwe (2016),Queen of Katwe,2016.0,Drama,6.418,5.0,193,3.697,3.6165
+54785,9,69953,9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn) (2008),9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn),2008.0,Documentary,6.401,5.0,34,3.25,3.4989
+54785,10,8656,"Short Film About Killing, A (Krótki film o zabijaniu) (1988)","Short Film About Killing, A (Krótki film o zabijaniu)",1988.0,Crime|Drama,6.386,5.0,733,4.001,3.9007
+55003,1,26422,Hair (1979),Hair,1979.0,Comedy|Drama|Musical,8.484,5.0,637,3.536,3.5371
+55003,2,26163,Don't Look Back (1967),Don't Look Back,1967.0,Documentary|Musical,7.283,5.0,365,3.84,3.7326
+55003,3,91626,Faces in the Crowd (2011),Faces in the Crowd,2011.0,Crime|Drama|Mystery,7.282,5.0,118,2.89,3.3021
+55003,4,242,Farinelli: il castrato (1994),Farinelli: il castrato,1994.0,Drama|Musical,7.183,5.0,1108,3.387,3.4109
+55003,5,5920,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L') (1982)","Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",1982.0,Adventure|Comedy,7.062,5.0,36,3.111,3.476
+55003,6,3823,Wonderland (1999),Wonderland,1999.0,Drama,7.046,5.0,408,3.591,3.5741
+55003,7,47404,Mind Game (2004),Mind Game,2004.0,Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,6.907,5.0,416,3.834,3.7374
+55003,8,6805,Crying Freeman (1995),Crying Freeman,1995.0,Action|Crime|Thriller,6.741,5.0,177,3.178,3.372
+55003,9,199253,Lupin the Third: Princess of the Breeze - Hidden City in the Sky (2013),Lupin the Third: Princess of the Breeze - Hidden City in the Sky,2013.0,Action|Animation|Comedy,6.453,5.0,6,3.25,3.5321
+55003,10,1546,Schizopolis (1996),Schizopolis,1996.0,Comedy,6.194,5.0,495,3.582,3.5699
+56008,1,4345,"Anniversary Party, The (2001)","Anniversary Party, The",2001.0,Drama,7.097,5.0,1041,3.452,3.4665
+56008,2,225687,Making 'The Shining' (1980),Making 'The Shining',1980.0,Documentary,7.031,5.0,44,3.557,3.5433
+56008,3,77665,Marmaduke (2010),Marmaduke,2010.0,Comedy,6.993,5.0,153,2.32,3.0174
+56008,4,129437,Ugly (2013),Ugly,2013.0,Mystery|Thriller,6.889,5.0,64,3.781,3.5979
+56008,5,60007,Doctor Who (1996),Doctor Who,1996.0,Adventure|Sci-Fi,6.885,5.0,186,3.344,3.4467
+56008,6,257589,Compartment No. 6 (2021),Compartment No. 6,2021.0,Drama,6.784,5.0,86,3.634,3.5682
+56008,7,4517,Lady in White (a.k.a. The Mystery of the Lady in White) (1988),Lady in White (a.k.a. The Mystery of the Lady in White),1988.0,Horror|Mystery|Thriller,6.704,5.0,342,3.349,3.4205
+56008,8,169390,RAID Dingue (2017),RAID Dingue,2017.0,Comedy,6.646,5.0,38,3.0,3.4555
+56008,9,26547,Police Story (Ging chaat goo si) (1985),Police Story (Ging chaat goo si),1985.0,Action|Comedy|Crime|Thriller,6.504,5.0,752,3.779,3.7281
+56008,10,148659,Ennum Eppozhum (2015),Ennum Eppozhum,2015.0,Children|Drama,6.477,5.0,3,3.667,3.5422
+56370,1,167032,Dancer (2016),Dancer,2016.0,Documentary,6.199,5.0,20,3.65,3.5502
+56370,2,86206,Dark City (1950),Dark City,1950.0,Crime|Drama|Film-Noir|Mystery,6.196,5.0,50,3.58,3.5482
+56370,3,27171,Freeway II: Confessions of a Trickbaby (1999),Freeway II: Confessions of a Trickbaby,1999.0,Comedy|Crime|Drama|Thriller,6.135,5.0,26,3.019,3.4815
+56370,4,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,6.081,5.0,91,3.731,3.5992
+56370,5,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,6.076,5.0,38,3.553,3.5424
+56370,6,109189,Endless Love (2014),Endless Love,2014.0,Drama|Romance,6.018,5.0,207,3.563,3.5518
+56370,7,54734,Sydney White (2007),Sydney White,2007.0,Comedy,5.999,5.0,519,3.303,3.37
+56370,8,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,5.976,5.0,78,3.532,3.5381
+56370,9,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,5.96,5.0,99,3.551,3.5439
+56370,10,202325,The Whistlers (2019),The Whistlers,2019.0,Comedy|Drama|Thriller,5.949,5.0,38,2.987,3.4535
+56703,1,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.962,5.0,38,3.553,3.5424
+56703,2,165239,Supersonic (2016),Supersonic,2016.0,Documentary,7.788,5.0,96,3.724,3.5991
+56703,3,89896,"Turin Horse, The (A Torinói ló) (2011)","Turin Horse, The (A Torinói ló)",2011.0,Drama,7.617,5.0,261,3.807,3.69
+56703,4,69953,9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn) (2008),9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn),2008.0,Documentary,7.534,5.0,34,3.25,3.4989
+56703,5,162596,Queen of Katwe (2016),Queen of Katwe,2016.0,Drama,7.16,5.0,193,3.697,3.6165
+56703,6,186367,Operation Odessa (2018),Operation Odessa,2018.0,Documentary,7.085,5.0,43,3.709,3.5697
+56703,7,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.061,5.0,99,3.551,3.5439
+56703,8,109189,Endless Love (2014),Endless Love,2014.0,Drama|Romance,6.987,5.0,207,3.563,3.5518
+56703,9,202934,Anna (2019),Anna,2019.0,Action|Thriller,6.916,5.0,428,3.285,3.3674
+56703,10,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),My Sassy Girl (Yeopgijeogin geunyeo),2001.0,Comedy|Romance,6.837,5.0,617,3.732,3.6844
+58951,1,4345,"Anniversary Party, The (2001)","Anniversary Party, The",2001.0,Drama,8.324,5.0,1041,3.452,3.4665
+58951,2,79800,Life During Wartime (2009),Life During Wartime,2009.0,Comedy|Drama,8.276,5.0,128,3.195,3.4072
+58951,3,257589,Compartment No. 6 (2021),Compartment No. 6,2021.0,Drama,7.912,5.0,86,3.634,3.5682
+58951,4,26587,"Decalogue, The (Dekalog) (1989)","Decalogue, The (Dekalog)",1989.0,Crime|Drama|Romance,7.79,5.0,654,4.169,4.0195
+58951,5,166472,"Feyzo, the Polite One (1978)","Feyzo, the Polite One",1978.0,Comedy,7.606,5.0,19,3.921,3.5728
+58951,6,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,7.575,5.0,367,2.911,3.1359
+58951,7,54734,Sydney White (2007),Sydney White,2007.0,Comedy,7.574,5.0,519,3.303,3.37
+58951,8,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,7.569,5.0,38,3.553,3.5424
+58951,9,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,7.535,5.0,99,3.551,3.5439
+58951,10,4741,Together (Tillsammans) (2000),Together (Tillsammans),2000.0,Comedy|Drama|Romance,7.507,5.0,1108,3.826,3.7816
+61974,1,3171,Room at the Top (1959),Room at the Top,1959.0,Drama,9.54,5.0,193,3.811,3.6719
+61974,2,127042,Fantomas Unleashed (Fantômas se déchaîne) (1965),Fantomas Unleashed (Fantômas se déchaîne),1965.0,Adventure|Comedy|Crime|Fantasy,9.138,5.0,78,3.532,3.5381
+61974,3,89896,"Turin Horse, The (A Torinói ló) (2011)","Turin Horse, The (A Torinói ló)",2011.0,Drama,8.904,5.0,261,3.807,3.69
+61974,4,6542,"Cuckoo, The (Kukushka) (2002)","Cuckoo, The (Kukushka)",2002.0,Comedy|Drama|War,8.845,5.0,524,3.84,3.756
+61974,5,787,"Gate of Heavenly Peace, The (1995)","Gate of Heavenly Peace, The",1995.0,Documentary,8.829,5.0,91,3.731,3.5992
+61974,6,172529,God of Gamblers (1989),God of Gamblers,1989.0,Action|Comedy|Drama,8.606,5.0,29,3.552,3.5418
+61974,7,3251,Agnes of God (1985),Agnes of God,1985.0,Drama|Mystery,8.56,5.0,1374,3.353,3.3772
+61974,8,167564,The Little Hours (2017),The Little Hours,2017.0,Comedy,8.554,5.0,284,3.125,3.2986
+61974,9,261271,The Harder They Fall (2021),The Harder They Fall,2021.0,Western,8.462,5.0,171,3.284,3.4235
+61974,10,160718,Piper (2016),Piper,2016.0,Animation,8.443,5.0,1918,4.154,4.095
+62035,1,189483,Cannon Fodder (1995),Cannon Fodder,1995.0,Animation,6.563,5.0,38,3.553,3.5424
+62035,2,165239,Supersonic (2016),Supersonic,2016.0,Documentary,5.949,5.0,96,3.724,3.5991
+62035,3,54734,Sydney White (2007),Sydney White,2007.0,Comedy,5.899,5.0,519,3.303,3.37
+62035,4,649,Cold Fever (Á köldum klaka) (1995),Cold Fever (Á köldum klaka),1995.0,Comedy|Drama,5.645,5.0,138,3.736,3.6193
+62035,5,27067,"Pentagon Wars, The (1998)","Pentagon Wars, The",1998.0,Comedy|War,5.637,5.0,99,3.551,3.5439
+62035,6,274197,Lightyear (2022),Lightyear,2022.0,Action|Adventure|Animation|Children|Comedy|Sci-Fi,5.52,5.0,367,2.911,3.1359
+62035,7,27523,My Sassy Girl (Yeopgijeogin geunyeo) (2001),My Sassy Girl (Yeopgijeogin geunyeo),2001.0,Comedy|Romance,5.508,5.0,617,3.732,3.6844
+62035,8,8656,"Short Film About Killing, A (Krótki film o zabijaniu) (1988)","Short Film About Killing, A (Krótki film o zabijaniu)",1988.0,Crime|Drama,5.443,5.0,733,4.001,3.9007
+62035,9,69953,9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn) (2008),9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn),2008.0,Documentary,5.442,5.0,34,3.25,3.4989
+62035,10,183437,World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017),World of Tomorrow Episode Two: The Burden of Other People's Thoughts,2017.0,Animation|Sci-Fi,5.424,5.0,167,4.027,3.7594

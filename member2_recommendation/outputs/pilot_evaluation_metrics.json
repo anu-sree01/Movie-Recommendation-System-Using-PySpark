@@ -1,0 +1,21 @@
+{
+    "dataset": "Validation Set (Pilot)",
+    "original_records": 15854,
+    "evaluated_predictions": 9879,
+    "dropped_cold_start_records": 5975,
+    "rmse": 1.6722,
+    "mae": 1.3769,
+    "training_time_seconds": 22.05,
+    "hyperparameters": {
+        "rank": 10,
+        "regParam": 0.1,
+        "maxIter": 5,
+        "seed": 42,
+        "coldStartStrategy": "drop",
+        "nonnegative": true,
+        "implicitPrefs": false
+    },
+    "pilot_sample_fraction": 0.005,
+    "pilot_total_records": 160054,
+    "train_records": 128351
+}
