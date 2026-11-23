@@ -11,6 +11,16 @@ streamlit run member3_dashboard/app.py
 
 The app reads the cleaned MovieLens catalogue at `output/clean/movies_clean.csv` and the existing Phase 3 exports under `member2_recommendation/outputs/`. It does not start the Spark pipeline. SQLite creates `database/cinesphere.sqlite3` on first run; the database is excluded from Git.
 
+## Deploy on Streamlit Community Cloud
+
+Create an app from repository `anu-sree01/Movie-Recommendation-System-Using-PySpark`, branch `feature/member3-dashboard`, and entrypoint `member3_dashboard/app.py`. The app-specific `requirements.txt` keeps PySpark out of the web build. If poster lookups should work in the cloud, add this in the app's Advanced settings under Secrets (never commit the real value):
+
+```toml
+OMDB_API_KEY = "your_omdb_api_key"
+```
+
+Community Cloud does not guarantee persistence of local files, so SQLite demo accounts and watchlists may reset. A public GitHub repository makes its deployed app public by default; set the app's sharing permissions before sharing the URL.
+
 ## Account and recommendation IDs
 
 Each new account receives an auto-incremented `application_user_id`. Its optional `movielens_user_id` is a separate field and can only be selected from IDs present in `pilot_user_recommendations.csv`. Linking one explicitly enables the supplied pilot ALS rows for demonstration. New accounts without a linked pilot profile receive genre discovery or global popular fallback results. Those sources are labelled separately from personalized ALS results.

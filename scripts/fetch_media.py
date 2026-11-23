@@ -86,14 +86,24 @@ PRESERVED_VERIFIED_TRAILERS = {
 
 def read_env_key(path: Path) -> str:
     """Read the key without logging or returning it to console output."""
-    if not path.is_file():
-        return os.environ.get("OMDB_API_KEY", "").strip()
-    for line in path.read_text(encoding="utf-8-sig").splitlines():
-        stripped = line.strip()
-        if stripped.startswith("OMDB_API_KEY="):
-            value = stripped.partition("=")[2].strip().strip("\"'")
-            return value or os.environ.get("OMDB_API_KEY", "").strip()
-    return os.environ.get("OMDB_API_KEY", "").strip()
+    if path.is_file():
+        for line in path.read_text(encoding="utf-8-sig").splitlines():
+            stripped = line.strip()
+            if stripped.startswith("OMDB_API_KEY="):
+                value = stripped.partition("=")[2].strip().strip("\"'")
+                if value:
+                    return value
+                break
+    configured = os.environ.get("OMDB_API_KEY", "").strip()
+    if configured:
+        return configured
+    # Streamlit Community Cloud injects secrets through st.secrets rather than
+    # a repository .env file. This remains optional for command-line runs.
+    try:
+        import streamlit as st
+        return str(st.secrets.get("OMDB_API_KEY", "")).strip()
+    except Exception:
+        return ""
 
 
 def atomic_json(path: Path, data: dict) -> None:

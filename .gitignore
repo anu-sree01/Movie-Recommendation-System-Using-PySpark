@@ -5,6 +5,7 @@ dataset.zip
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
 
 # Large ratings output
 output/clean/ratings_clean.parquet/
