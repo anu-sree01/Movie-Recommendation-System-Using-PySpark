@@ -68,5 +68,18 @@ Dataset: https://grouplens.org/datasets/movielens/32m/
 5. Integrate the recommendation engine with the Streamlit application.
 6. Allow users to manage their movie preferences and watchlists.
 
+## Repository Layout
+
+- `data/raw/` and `data/processed/`: shared dataset locations.
+- `member1_data_processing/`: Module 1 workspace.
+- `member2_recommendation/`: Module 2 code and recommendation exports.
+- `member3_dashboard/`: Module 3 Streamlit and SQLite integration; UI assets go in `frontend/`.
+- `models/`, `outputs/`, and `database/`: shared model, generated output, and local database locations.
+- `notebooks/`: exploratory notebooks.
+
+Run the dashboard from the repository root with `streamlit run member3_dashboard/app.py`. Local data, model binaries, generated outputs, and SQLite files should not be committed unless the team agrees otherwise.
+
+Member 3's dashboard is implemented in `member3_dashboard/app.py`. Its inputs, account ID rules, media workflow, and run instructions are documented in [member3_dashboard/README.md](member3_dashboard/README.md).
+
 ## Project Status
 Currently under development.

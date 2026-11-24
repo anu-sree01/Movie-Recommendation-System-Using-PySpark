@@ -1,9 +1,35 @@
 # Original MovieLens dataset
 dataset/
 dataset.zip
+*.zip
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
 
 # Large ratings output
 output/clean/ratings_clean.parquet/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+database/*.sqlite-journal
+member3_dashboard/media/metadata/tmdb_media_cache.json
+member3_dashboard/media/metadata/omdb_media_cache.json
+member3_dashboard/media/metadata/movie_media.csv
+member3_dashboard/media/metadata/acquisition_progress.json
+member3_dashboard/media/metadata/media_acquisition_report.json
+member3_dashboard/media/metadata/*.tmp
+member3_dashboard/PROJECT_PROGRESS.md
+member3_dashboard/media/posters/*
+!member3_dashboard/media/posters/.gitkeep
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
 
 # Temporary Spark folders
 UsersanusrAppDataLocalTempspark_*/
